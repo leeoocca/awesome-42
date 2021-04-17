@@ -62,6 +62,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Cheatsheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive collection of programming tips and tricks aimed at 42 students.
 - [42 Docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
 	- [source code](https://github.com/harm-smits/42docs)
+- [42 Docs](https://github.com/42sommecaise/42Docs)
+
 ### Testers
 
 - [42 Tests](https://github.com/Kwevan/42-Tests) - A list of testers for the current cursus.
