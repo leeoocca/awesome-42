@@ -210,6 +210,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 #### Visual Studio Code
 
 - [42 Canonical Class CPP](https://marketplace.visualstudio.com/items?itemName=frfreyCanonicalClassCPP.canonicalclasscpp)
+	- [source code](https://github.com/Etheram68/Header-Cpp-Class)
 - [42-comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment)
 	- [source code](https://github.com/nasanov/42-comment)
 - [42_vscode_touchbar](https://marketplace.visualstudio.com/items?itemName=Untel.ext)
