@@ -208,7 +208,27 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 #### Visual Studio Code
 
-- [42 Header for VSCode](https://github.com/kube/vscode-42header)
+- [42 Canonical Class CPP](https://marketplace.visualstudio.com/items?itemName=frfreyCanonicalClassCPP.canonicalclasscpp)
+- [42-comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment)
+	- [source code](https://github.com/nasanov/42-comment)
+- [42_vscode_touchbar](https://marketplace.visualstudio.com/items?itemName=Untel.ext)
+	- [source code](https://github.com/untel/42-vscode-touchbar)
+
+##### Header
+
+- [42 Header for VSCode](https://marketplace.visualstudio.com/items?itemName=kube.42header)
+	- [source code](https://github.com/kube/vscode-42header)
+- [42/101 Header 2020](https://marketplace.visualstudio.com/items?itemName=frfrey.101header2019)
+	- [source code](https://github.com/Etheram68/Header101-Vscode)
+
+##### Norminette highlighters
+
+- [norminette-42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
+	- [source code](https://github.com/Evilcat325/Norminette-Vscode)
+- [42-norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)
+	- [source code](https://github.com/dalexhd/42-norminette)
+- [42 Norminette Highlighter (3.x)](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
+	- [source code](https://github.com/Mariusmivw/vscode-42-norminette-3-highlighter)
 
 #### JetBrains CLion
 
