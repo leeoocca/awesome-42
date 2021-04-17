@@ -5,7 +5,42 @@
 
 ## Contents
 
-<!-- TOC -->
+* [About 42](#about-42)
+* [General Resources](#general-resources)
+* [Cursus](#cursus)
+	+ [Testers](#testers)
+	+ [PDFs](#pdfs)
+* [42 Network](#42-network)
+	+ [Main links](#main-links)
+	+ [Social presence](#social-presence)
+	+ [Unofficial platforms](#unofficial-platforms)
+* [Campuses](#campuses)
+	+ [Europe](#europe)
+	+ [America](#america)
+	+ [Asia](#asia)
+	+ [Africa](#africa)
+	+ [Oceania](#oceania)
+* [42 API](#42-api)
+	+ [Wrappers](#wrappers)
+* [Student projects](#student-projects)
+	+ [Native applications](#native-applications)
+	+ [Readme Badges](#readme-badges)
+	+ [Paris campus only](#paris-campus-only)
+* [Tools](#tools)
+	+ [Bots](#bots)
+	+ [Norminette](#norminette)
+	+ [Scripts](#scripts)
+	+ [Homebrew Installation](#homebrew-installation)
+	+ [Editor Extensions](#editor-extensions)
+		- [Visual Studio Code](#visual-studio-code)
+		- [JetBrains CLion](#jetbrains-clion)
+		- [Vim](#vim)
+	+ [Browser Extensions](#browser-extensions)
+		- [Google Chrome](#google-chrome)
+	+ [Containers and VMs](#containers-and-vms)
+* [About](#about)
+* [Contribute](#contribute)
+* [License](#license)
 
 
 ## About 42
