@@ -188,6 +188,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Scripts
 
 - [42toolbox](https://github.com/alexandregv/42toolbox)
+- [42toolbox](https://github.com/javrodri42/42toolbox)
 - [42helpers](https://github.com/UmbertoSavoia/42helpers)
 - [Cleaner 42](https://github.com/su-omb/Cleaner_42)
 
