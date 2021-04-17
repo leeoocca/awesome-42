@@ -230,9 +230,18 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## About
 
-Project started 2021-04-14. First published 2021-04-17.
+Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
 
-First author: [lrocca](https://profile.intra.42.fr/users/lrocca) aka @leeoocca.
+### Authors
+
+[lrocca](https://profile.intra.42.fr/users/lrocca) aka @leeoocca and [contributors](https://github.com/leeoocca/awesome-42/graphs/contributors).
+
+## Acknowledgements
+
+These lists were taken as reference during the first stages of the project.
+
+- [42 Tools](https://github.com/solareenlo/42tools)
+- [*Useful links* page from 42evaluators](https://42evaluators.com/usefull_links/)
 
 
 ## Contribute
