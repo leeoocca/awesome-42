@@ -63,6 +63,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
 	- [source code](https://github.com/harm-smits/42docs)
 - [42 Docs](https://github.com/42sommecaise/42Docs)
+- [Peer Class](https://github.com/apt-42/peer_class)
 
 ### Testers
 
@@ -147,6 +148,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [source code](https://github.com/kube/42api)
 - [passport-42](https://www.npmjs.com/package/passport-42) - JavaScript. Passport strategy for authenticating with 42.
 	- [source code](https://github.com/pandark/passport-42)
+- [simple-42api-oauth](https://github.com/cos18/simple-42api-oauth) - JavaScript. Serverless project to authenticate via 42 API OAuth.
+- [42 Intra cURL Client](https://github.com/Dirty-No/42_Intra_curl_client) - Shell.
 
 
 ## Student projects
@@ -177,6 +180,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ## Tools
 
 - [RP42](https://github.com/alexandregv/RP42) - Discord rich presence.
+- [C Formatter 42](https://github.com/dawnbeen/c_formatter_42) - Prettier for C at 42.
 
 ### Bots
 
@@ -210,6 +214,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Header](https://github.com/42Paris/42header) - Official from @42Paris.
 - [vim-42header](https://github.com/pbondoer/vim-42header)
 - [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
+- [c_formatter_42.vim](https://github.com/cacharle/c_formatter_42.vim) - Vim plugin for the [c_formatter_42](#tools) formatter.
 
 #### Visual Studio Code
 
