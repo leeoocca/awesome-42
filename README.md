@@ -200,6 +200,12 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Editor Extensions
 
+#### Vim
+
+- [42 Header](https://github.com/42Paris/42header) - Official from @42Paris.
+- [vim-42header](https://github.com/pbondoer/vim-42header)
+- [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
+
 #### Visual Studio Code
 
 - [42 Header for VSCode](https://github.com/kube/vscode-42header)
@@ -207,12 +213,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 #### JetBrains CLion
 
 - [42 Header for CLion](https://github.com/xrseventy/42_header_for_clion)
-
-#### Vim
-
-- [42 Header](https://github.com/42Paris/42header) - Official from @42Paris.
-- [vim-42header](https://github.com/pbondoer/vim-42header)
-- [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
 
 ### Browser Extensions
 
