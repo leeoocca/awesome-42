@@ -196,7 +196,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Homebrew Installation
 
-- [brew](https://github.com/42School/brew/blob/main/brew.sh) - Official from @42School.
+- [brew](https://github.com/42School/brew) - Official from @42School.
 - [42homebrew](https://github.com/kube/42homebrew)
 
 ### Editor Extensions
