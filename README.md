@@ -6,8 +6,8 @@
 ## Contents
 
 - [About 42](#about-42)
-- [General Resources](#general-resources)
 - [Cursus](#cursus)
+	- [Resources](#resources)
 	- [Testers](#testers)
 	- [PDFs](#pdfs)
 - [42 Network](#42-network)
@@ -54,15 +54,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 > 42's name is a reference to the science fiction book The Hitchhiker's Guide to the Galaxy written by British author Douglas Adams: in the book 42 is the Answer to the Ultimate Question of Life, the Universe, and Everything.
 
-## General Resources
+
+## Cursus
+
+### Resources
 
 - [42 Cheatsheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive collection of programming tips and tricks aimed at 42 students.
 - [42 Docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
 	- [source code](https://github.com/harm-smits/42docs)
-
-
-## Cursus
-
 ### Testers
 
 - [42 Tests](https://github.com/Kwevan/42-Tests) - A list of testers for the current cursus.
