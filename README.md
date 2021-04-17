@@ -11,7 +11,6 @@
 	- [Testers](#testers)
 	- [PDFs](#pdfs)
 - [42 Network](#42-network)
-	- [Main links](#main-links)
 	- [Social presence](#social-presence)
 	- [Unofficial platforms](#unofficial-platforms)
 - [Campuses](#campuses)
@@ -30,7 +29,7 @@
 	- [Bots](#bots)
 	- [Norminette](#norminette)
 	- [Scripts](#scripts)
-	- [Homebrew Installation](#homebrew-installation)
+	- [Homebrew Installation](#homebrew)
 	- [Editor Extensions](#editor-extensions)
 		- [Vim](#vim)
 		- [Visual Studio Code](#visual-studio-code)
@@ -60,10 +59,11 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Resources
 
 - [42 Cheatsheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive collection of programming tips and tricks aimed at 42 students.
-- [42 Docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
+- [harm-smits/42docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
 	- [source code](https://github.com/harm-smits/42docs)
-- [42 Docs](https://github.com/42sommecaise/42Docs)
+- [42sommecaise/42Docs](https://github.com/42sommecaise/42Docs)
 - [Peer Class](https://github.com/apt-42/peer_class)
+- [Resources for 42 students](https://github.com/apt-42/resources) - A selection of resources about Information security.
 
 ### Testers
 
@@ -86,16 +86,16 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## 42 Network
 
-### Main links
-
 - [Intranet](https://intra.42.fr)
 - [Slack](https://42born2code.slack.com)
 - [StackOverflow](https://stackoverflow.com/c/42network) - The new forum.
+- [GitHub Student Pack Portal](https://github-portal.42.fr) - Portal to activate the GitHub Student Pack.
+- [Alumni](https://alumni.42.fr)
 
 ### Social presence
 
 - [GitHub](https://github.com/42School)
-- [Instagram](https://www.instagram.com/42_network/)
+- [Instagram](https://www.instagram.com/42_network)
 - [LinkedIn](https://www.linkedin.com/company/42network)
 
 ### Unofficial platforms
@@ -103,6 +103,13 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [Discord](https://discord.gg/knBsqD7) - Unofficial Discord server.
 - [OnWave](https://onwave.app) - [Dogehouse](https://github.com/benawad/dogehouse)(?) istance.
 
+### Associations
+
+- [42AI](https://www.42ai.fr) - Artificial Intelligence at 42.
+	- [GitHub](https://github.com/42-AI)
+- [42l](https://42l.fr) - Open Source and Libre culture at 42.
+- [42Entrepreneurs](https://42entrepreneurs.com)
+- [BDE](https://pingwin-bde.fr)
 
 ## Campuses
 
@@ -157,7 +164,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Evaluators](https://www.42evaluators.com)
 	- [Python script](https://github.com/rfautier/find_correction)
 - [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus.
-- [XP Calculator](https://42.tbailleu.dev/)
+- [XP Calculator](https://42.tbailleu.dev)
 
 ### Native applications
 
@@ -173,8 +180,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Paris campus only
 
-- [Stud42](https://stud42.fr/) - 42Paris cluster map.
-- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr/)
+- [Stud42](https://stud42.fr) - 42Paris cluster map.
+- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr)
 
 
 ## Tools
@@ -194,6 +201,13 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [norminette-action](https://github.com/alexandregv/norminette-action) - GitHub action to check the norm.
 - [norminette-docker](https://github.com/alexandregv/norminette-docker) - Docker image for norminette.
 - [norminette-go](https://github.com/alexandregv/norminette-client-golang)
+- [Norminette v3 macOS Installation Guide](https://github.com/ftputGuigz/Norminette_v3_MacOS_installation_guide)
+
+### MiniLibX
+
+- [MiniLibX Linux](https://github.com/42Paris/minilibx-linux)
+- [MiniLibX Install Script](https://github.com/Dirty-No/mlx_install_script) - A bash script to install MiniLibX on Linux.
+- [mlx_example](https://github.com/taelee42/mlx_example)
 
 ### Scripts
 
@@ -201,8 +215,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42helpers](https://github.com/UmbertoSavoia/42helpers)
 - [Cleaner 42](https://github.com/su-omb/Cleaner_42)
 - [42 Tools](https://github.com/Korkrane/42TOOLS)
+- [k8s-42-session-setup](https://github.com/f0rkr/k8s-42-session-setup)
+- [FU CNIL 42](https://github.com/jgengo/fu_cnil_42)
 
-### Homebrew Installation
+#### Homebrew
 
 - [brew](https://github.com/42School/brew) - Official from @42School.
 - [42homebrew](https://github.com/kube/42homebrew)
@@ -258,6 +274,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [remote-42](https://github.com/alexandregv/remote-42) - A Dockerfile to work remotely at 42.
 - [setupvm42](https://github.com/Velovo/setupvm42)
+- [Valgrind 42](https://github.com/grouville/valgrind_42)
+- [Norminette 42 Install](https://github.com/Mazoise/NORMINETTE_VM_INSTALL)
 
 
 ## About
@@ -273,7 +291,7 @@ Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
 These lists were taken as reference during the first stages of the project.
 
 - [42 Tools](https://github.com/solareenlo/42tools)
-- [*Useful links* page from 42evaluators](https://42evaluators.com/usefull_links/)
+- [*Useful links* page from 42evaluators](https://42evaluators.com/usefull_links)
 
 
 ## Contribute
@@ -283,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
