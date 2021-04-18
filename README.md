@@ -169,6 +169,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [source code](https://github.com/pandark/passport-42)
 - [simple-42api-oauth](https://github.com/cos18/simple-42api-oauth) - JavaScript. Serverless project to authenticate via 42 API OAuth.
 - [42 Intra cURL Client](https://github.com/Dirty-No/42_Intra_curl_client) - Shell.
+- [api42.cr](https://github.com/aabajyan/api42.cr) - Crystal.
 
 
 ## Student projects
@@ -213,6 +214,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [norminette-action](https://github.com/alexandregv/norminette-action) - GitHub action to check the norm.
 - [norminette-docker](https://github.com/alexandregv/norminette-docker) - Docker image for norminette.
 - [norminette-go](https://github.com/alexandregv/norminette-client-golang)
+- [norminette.cr](https://github.com/aabajyan/norminette.cr) - Crystal implementation.
 - [Norminette v3 macOS Installation Guide](https://github.com/ftputGuigz/Norminette_v3_MacOS_installation_guide)
 
 ### MiniLibX
