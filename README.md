@@ -116,12 +116,24 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Europe
 
 - [42 Paris](https://42.fr) - Paris, France (2013)
-- ...
+- [42 Lyon](https://www.42lyon.fr) - Formerly *Le 101*. Lyon, France (2017)
+- [Codam](https://www.codam.nl) - Amsterdam, The Netherlands (2018)
+- [19](https://www.s19.be) - Brussels, Belgium (2018)
+- [21](https://21-school.ru) - Moscow, Russia (2018)
+- [21](https://21-school.ru) - Kazan, Russia (2019)
+- [Hive](https://www.hive.fi) - Helsinki, Finland (2019)
+- [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
+- [42 Roma](https://42roma.it) - Rome, Italy (2020)
+- [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
+- [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
+- [42 Wolfsburg](https://42wolfsburg.de) - Wolfsburg, Germany (2020)
+- [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
 
 ### America
 
 - [42 Silicon Valley](https://www.42.us.org) - Fremont, California, USA (2016)
-- ...
+- [42 São Paulo](https://www.42sp.org.br) - São Paulo, Brazil (2019)
+- [42 Rio](https://42.rio) - Rio de Janeiro, Brazil (2019)
 
 ### Asia
 
