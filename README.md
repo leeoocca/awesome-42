@@ -207,9 +207,15 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Bots
 
+#### Slack
+
 - [Coalibot](https://github.com/eleboucher/coalibot) - Slack.
-- [42bots](https://github.com/Asandolo/42bots) - Discord.
-- [42 Discord Bot](https://github.com/protsaq/42discord_bot) - Discord.
+
+#### Discord
+
+- [42bots](https://github.com/Asandolo/42bots)
+- [42 Discord Bot](https://github.com/protsaq/42discord_bot)
+- [hivehelsinki/discord-student](https://github.com/hivehelsinki/discord-student)
 
 ### Norminette
 
