@@ -161,16 +161,27 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Wrappers
 
-- [OmniAuth Marvin](https://github.com/fakenine/omniauth-marvin) - Ruby.
-- [Prometheus Client Forty Two](https://github.com/42School/prometheus-client-forty_two) - Ruby.
-- [42 API Script](https://github.com/InigoRomero/42ApiScript) - Ruby.
-- [42 API Lib](https://github.com/hivehelsinki/42api-lib) - Python. Official from @hivehelsinki.
-- [apy42](https://github.com/alexandregv/apy42) - Python.
-- [42api](https://www.npmjs.com/package/42api) - JavaScript.
+#### Ruby
+
+- [OmniAuth Marvin](https://github.com/fakenine/omniauth-marvin)
+- [Prometheus Client Forty Two](https://github.com/42School/prometheus-client-forty_two)
+- [42 API Script](https://github.com/InigoRomero/42ApiScript)
+
+#### Python
+
+- [42 API Lib](https://github.com/hivehelsinki/42api-lib) - Official from [@hivehelsinki](https://github.com/hivehelsinki).
+- [apy42](https://github.com/alexandregv/apy42)
+
+#### JavaScript
+
+- [42api](https://www.npmjs.com/package/42api)
 	- [source code](https://github.com/kube/42api)
-- [passport-42](https://www.npmjs.com/package/passport-42) - JavaScript. Passport strategy for authenticating with 42.
+- [passport-42](https://www.npmjs.com/package/passport-42) - Passport strategy for authenticating with 42.
 	- [source code](https://github.com/pandark/passport-42)
-- [simple-42api-oauth](https://github.com/cos18/simple-42api-oauth) - JavaScript. Serverless project to authenticate via 42 API OAuth.
+- [simple-42api-oauth](https://github.com/cos18/simple-42api-oauth) - Serverless project to authenticate via 42 API OAuth.
+
+#### Other
+
 - [42 Intra cURL Client](https://github.com/Dirty-No/42_Intra_curl_client) - Shell.
 - [api42.cr](https://github.com/aabajyan/api42.cr) - Crystal.
 
