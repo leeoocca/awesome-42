@@ -69,6 +69,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Tests](https://github.com/Kwevan/42-Tests) - A list of testers for the current cursus.
 - [42FileChecker](https://github.com/jgigault/42FileChecker) - Tiny bash script for testing and checking files according to the rules of the subjects.
+- [malloc_failer](https://github.com/hilmi-yilmaz/malloc_failer) - A script to test malloc protection.
 
 ### PDFs
 
