@@ -239,6 +239,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [Cleaner 42](https://github.com/su-omb/Cleaner_42)
 - [42 Tools](https://github.com/Korkrane/42TOOLS)
 - [k8s-42-session-setup](https://github.com/f0rkr/k8s-42-session-setup)
+- [scripts_42](https://github.com/lpieri/scripts_42) - Set of functions to change your preferences on macOS.
 - [FU CNIL 42](https://github.com/jgengo/fu_cnil_42)
 
 #### Homebrew
@@ -252,6 +253,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Header](https://github.com/42Paris/42header) - Official from @42Paris.
 - [vim-42header](https://github.com/pbondoer/vim-42header)
+- [42header.vim](https://github.com/pandark/42header.vim)
 - [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
 - [c_formatter_42.vim](https://github.com/cacharle/c_formatter_42.vim) - Vim plugin for the [c_formatter_42](#tools) formatter.
 
