@@ -1,6 +1,6 @@
 # Awesome 42 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of useful resources, links and more for @42School students.
+> A list of useful resources, links and more for [@42School](https://github.com/42School) students.
 
 
 ## Contents
@@ -264,14 +264,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 #### Homebrew
 
-- [brew](https://github.com/42School/brew) - Official from @42School.
+- [brew](https://github.com/42School/brew) - Official from [@42School](https://github.com/42School).
 - [42homebrew](https://github.com/kube/42homebrew)
 
 ### Editor Extensions
 
 #### Vim
 
-- [42 Header](https://github.com/42Paris/42header) - Official from @42Paris.
+- [42 Header](https://github.com/42Paris/42header) - Official from [@42Paris](https://github.com/42Paris).
 - [vim-42header](https://github.com/pbondoer/vim-42header)
 - [42header.vim](https://github.com/pandark/42header.vim)
 - [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
@@ -329,7 +329,7 @@ Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
 
 ### Authors
 
-[lrocca](https://profile.intra.42.fr/users/lrocca) aka @leeoocca and [contributors](https://github.com/leeoocca/awesome-42/graphs/contributors).
+[lrocca](https://profile.intra.42.fr/users/lrocca) aka [@leeoocca](https://github.com/leeoocca) and [contributors](https://github.com/leeoocca/awesome-42/graphs/contributors).
 
 ## Acknowledgements
 
