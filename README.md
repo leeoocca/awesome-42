@@ -30,7 +30,7 @@
 - [Student projects](#student-projects)
 	- [Native applications](#native-applications)
 	- [Readme Badges](#readme-badges)
-	- [Paris campus only](#paris-campus-only)
+	- [Campus specific](#campus-specific)
 - [Tools](#tools)
 	- [Bots](#bots)
 		- [Slack](#slack)
@@ -51,6 +51,7 @@
 - [Acknowledgements](#acknowledgements)
 - [Contribute](#contribute)
 - [License](#license)
+
 
 ## About 42
 
@@ -214,10 +215,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [Badge 42](https://github.com/JaeSeoKim/badge42)
 - [1337 Readme](https://github.com/mohouyizme/1337-readme)
 
-### Paris campus only
+### Campus specific
 
-- [Stud42](https://stud42.fr) - 42Paris cluster map.
-- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr)
+- [Stud42](https://stud42.fr) - [42 Paris](#europe), cluster map.
+- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr) - [42 Paris](#europe).
+- [Seoul42](https://seoul42.com/) - [42 Seoul](#asia).
+	- [source code](https://github.com/progresshans/seoul42)
+- [codamhero.dev](https://codamhero.dev) - [Codam](#europe).
+	- [source code](https://github.com/OscarMulder/codam-clustermap)
 
 
 ## Tools
