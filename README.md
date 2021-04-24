@@ -28,6 +28,7 @@
 		- [JavaScript](#javascript)
 		- [Other](#other)
 - [Student projects](#student-projects)
+	- [Awesome lists](#awesome-lists)
 	- [Native applications](#native-applications)
 	- [Readme Badges](#readme-badges)
 	- [Campus specific](#campus-specific)
@@ -202,6 +203,13 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [Python script](https://github.com/rfautier/find_correction)
 - [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus.
 - [XP Calculator](https://42.tbailleu.dev)
+
+### Awesome lists
+
+- [Awesome 42 Students](https://github.com/CriimBow/Awesome-42-students) - A list of useful resources for 42 students.
+- [Awesome 42 Lyon](https://github.com/blackcontact/awesome-42-lyon) - A list of tools, tips and info for 42 Lyon students.
+- [Awesome 42 Freelance - 42 Paris](https://github.com/CamilleHbp/awesome-42-freelance-42paris) - A collection of tips and tools for French freelancers.
+- [Awesome 42](https://github.com/jterrazz/awesome-42) - Correction tips, code snippets and good practices.
 
 ### Native applications
 
