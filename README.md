@@ -103,6 +103,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [StackOverflow](https://stackoverflow.com/c/42network) - The new forum.
 - [GitHub Student Pack Portal](https://github-portal.42.fr) - Portal to activate the GitHub Student Pack.
 - [Alumni](https://alumni.42.fr)
+- [Admission Test Practice](http://ftzzle.42.us.org/index.html)
 
 ### Social presence
 
