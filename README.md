@@ -346,6 +346,8 @@ Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
 
 [lrocca](https://profile.intra.42.fr/users/lrocca) aka [@leeoocca](https://github.com/leeoocca) and [contributors](https://github.com/leeoocca/awesome-42/graphs/contributors).
 
+[![](https://contrib.rocks/image?repo=leeoocca/awesome-42)](https://github.com/leeoocca/awesome-42/graphs/contributors)
+
 ## Acknowledgements
 
 These lists were taken as reference during the first stages of the project.
