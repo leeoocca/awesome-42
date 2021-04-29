@@ -230,7 +230,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Readme Badges
 
 - [Badge 42](https://github.com/JaeSeoKim/badge42)
-- [1337 Readme](https://github.com/mohouyizme/1337-readme)
+- [1337 Readme](https://1337-readme.vercel.app)
+	- [source code](https://github.com/mohouyizme/1337-readme)
 
 ### Campus specific
 
