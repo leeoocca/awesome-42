@@ -27,6 +27,7 @@
 		- [Python](#python)
 		- [JavaScript](#javascript)
 		- [Other](#other)
+	- [CLIs](#clis)
 - [Student projects](#student-projects)
 	- [Awesome lists](#awesome-lists)
 	- [Native applications](#native-applications)
@@ -197,6 +198,12 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Intra cURL Client](https://github.com/Dirty-No/42_Intra_curl_client) - Shell.
 - [api42.cr](https://github.com/aabajyan/api42.cr) - Crystal.
+
+### CLIs
+
+- [42cli](https://github.com/dhaiibfiukkiu/42cli) - Python.
+- [0x2a](https://github.com/NekoNoor/0x2a) - Python.
+- [goft](https://github.com/mehdibo/goft) - Go.
 
 
 ## Student projects
