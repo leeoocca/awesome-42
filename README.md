@@ -358,7 +358,7 @@ These lists were taken as reference during the first stages of the project.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## License
