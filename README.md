@@ -154,6 +154,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Asia
 
 - [42 Seoul](https://42seoul.kr) - Seoul, South Korea (2019)
+- [42 Tokyo](https://42tokyo.jp/) - Tokyo, Japan (2020)
 
 ### Africa
 
