@@ -150,11 +150,15 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Silicon Valley](https://www.42.us.org) - Fremont, California, USA (2016)
 - [42 São Paulo](https://www.42sp.org.br) - São Paulo, Brazil (2019)
 - [42 Rio](https://42.rio) - Rio de Janeiro, Brazil (2019)
+- [42 Québec](https://www.42quebec.com) - Québec, Canada (2021)
 
 ### Asia
 
 - [42 Seoul](https://42seoul.kr) - Seoul, South Korea (2019)
 - [42 Tokyo](https://42tokyo.jp) - Tokyo, Japan (2020)
+- [42 Yerevan](https://42yerevan.am) - Yerevan, Armenia (2020)
+- [42 Bangkok](https://www.42bangkok.com) - Bangkok, Thailand (2021)
+- [42 Kuala Lumpur](https://42kl.edu.my) - Kuala Lumpur, Malaysia (2021)
 
 ### Africa
 
@@ -163,7 +167,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Oceania
 
-- ...
+- [42 Adelaide](https://www.42adel.org.au) - Adelaide, Australia (2021)
 
 
 ## 42 API
