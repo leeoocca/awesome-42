@@ -2,8 +2,8 @@
 
 > A list of useful resources, links and more for [@42School](https://github.com/42School) students.
 
-
-## Contents
+<details>
+<summary>Table of Contents</summary>
 
 - [About 42](#about-42)
 - [Cursus](#cursus)
@@ -54,6 +54,7 @@
 - [Contribute](#contribute)
 - [License](#license)
 
+</details>
 
 ## About 42
 
