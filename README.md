@@ -320,13 +320,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [source code](https://github.com/kube/vscode-42header)
 - [42/101 Header 2020](https://marketplace.visualstudio.com/items?itemName=frfrey.101header2019)
 	- [source code](https://github.com/Etheram68/Header101-Vscode)
-- [Codam Header for CLion](https://plugins.jetbrains.com/plugin/17479-codam-header)
-	- [source code](https://github.com/skrtks/codam_header)
 
 ##### Norminette highlighters
 
-- [norminette for CLion](https://plugins.jetbrains.com/plugin/17190-norminette) - Norminette v3 highlighter for CLion
-	- [source code](https://github.com/skrtks/norminette)
 - [norminette-42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
 	- [source code](https://github.com/Evilcat325/Norminette-Vscode)
 - [42-norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)
@@ -337,6 +333,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 #### JetBrains CLion
 
 - [42 Header for CLion](https://github.com/xrseventy/42_header_for_clion)
+- [Codam Header](https://plugins.jetbrains.com/plugin/17479-codam-header)
+	- [source code](https://github.com/skrtks/codam_header)
+- [Norminette](https://plugins.jetbrains.com/plugin/17190-norminette) - Norminette v3 highlighter for CLion
+	- [source code](https://github.com/skrtks/norminette)
 
 ### Browser Extensions
 
