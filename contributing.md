@@ -1,6 +1,6 @@
 # Contributing to [awesome-42](https://github.com/leeoocca/awesome-42)
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
 ---
 
@@ -52,4 +52,4 @@ We’re using Discussions as a place to connect with other members of our commun
 
 ## License
 
-By contributing to `awesome-42`, you agree that your contributions will be licensed under the CC0 1.0 Universal License. Read the [LICENSE file](LICENSE.md) for more information.
+By contributing to `awesome-42`, you agree that your contributions will be licensed under the CC0 1.0 Universal License. Read the [license file](license.md) for more information.

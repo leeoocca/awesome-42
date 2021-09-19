@@ -66,7 +66,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 > 42's name is a reference to the science fiction book The Hitchhiker's Guide to the Galaxy written by British author Douglas Adams: in the book 42 is the Answer to the Ultimate Question of Life, the Universe, and Everything.
 
-
 ## Cursus
 
 ### Resources
@@ -96,7 +95,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Licenses
 
 - [42 Unlicense](https://github.com/gcamerli/42unlicense) - A flavored version of the more general [Unlicense](https://en.wikipedia.org/wiki/Unlicense) public license to publish your 42 educational projects and set your code as free.
-
 
 ## 42 Network
 
@@ -170,7 +168,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Adelaide](https://www.42adel.org.au) - Adelaide, Australia (2021)
 
-
 ## 42 API
 
 - [42 API Reference](https://api.intra.42.fr/apidoc) - Official documentation.
@@ -211,7 +208,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [0x2a](https://github.com/NekoNoor/0x2a) - Python.
 - [goft](https://github.com/mehdibo/goft) - Go.
 
-
 ## Student projects
 
 - [42 Evaluators](https://www.42evaluators.com)
@@ -247,7 +243,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [source code](https://github.com/progresshans/seoul42)
 - [codamhero.dev](https://codamhero.dev) - [Codam](#europe).
 	- [source code](https://github.com/OscarMulder/codam-clustermap)
-
 
 ## Tools
 
@@ -355,7 +350,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [Valgrind 42](https://github.com/grouville/valgrind_42)
 - [Norminette 42 Install](https://github.com/Mazoise/NORMINETTE_VM_INSTALL)
 
-
 ## About
 
 Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
@@ -373,11 +367,9 @@ These lists were taken as reference during the first stages of the project.
 - [42 Tools](https://github.com/solareenlo/42tools)
 - [*Useful links* page from 42evaluators](https://42evaluators.com/usefull_links)
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 ## License
 
