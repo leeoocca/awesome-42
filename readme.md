@@ -334,6 +334,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 #### JetBrains CLion
 
 - [42 Header for CLion](https://github.com/xrseventy/42_header_for_clion)
+- [Codam Header](https://plugins.jetbrains.com/plugin/17479-codam-header)
+	- [source code](https://github.com/skrtks/codam_header)
+- [Norminette](https://plugins.jetbrains.com/plugin/17190-norminette) - Norminette v3 highlighter for CLion
+	- [source code](https://github.com/skrtks/norminette)
 
 ### Browser Extensions
 
