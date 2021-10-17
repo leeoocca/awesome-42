@@ -237,12 +237,17 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Campus specific
 
-- [Stud42](https://stud42.fr) - [42 Paris](#europe), cluster map.
-- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr) - [42 Paris](#europe).
-- [Seoul42](https://seoul42.com/) - [42 Seoul](#asia).
-	- [source code](https://github.com/progresshans/seoul42)
-- [codamhero.dev](https://codamhero.dev) - [Codam](#europe).
-	- [source code](https://github.com/OscarMulder/codam-clustermap)
+- [42 Paris](#europe)
+	- [Stud42](https://stud42.fr) - Cluster map.
+	- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr) - Piscine.
+	- [42.vmontagn.fr](https://42.vmontagn.fr) - Piscine.
+	- [42.asandolo.fr](https://42.asandolo.fr) - Piscine.
+- [42 Seoul](#asia)
+	- [Seoul42](https://seoul42.com/)
+		- [source code](https://github.com/progresshans/seoul42)
+- [Codam](#europe)
+	- [codamhero.dev](https://codamhero.dev)
+		- [source code](https://github.com/OscarMulder/codam-clustermap)
 
 ## Tools
 
