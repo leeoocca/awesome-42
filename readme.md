@@ -87,7 +87,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Subjects](https://github.com/Kwevan/42_Subjects_2020_with_versioning) - Current cursus subjects with versioning.
 - [All School 42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - Subjects both in English and Russian.
-- [School 21 Checklists](https://github.com/secondfry/school21-checklists) - Current cursus corrections, generally up to date.
+- [School 21 Checklists](https://github.com/caecitasminimus/school21-checklists) - Current cursus corrections, generally up to date.
 - [42 Subjects](https://github.com/Binary-Hackers/42_Subjects) - Subjects for the older 42 cursus.
 - [42 Subjects](https://github.com/fpetras/42-subjects) - Subjects for the older 42 cursus.
 - [42 Corrections](https://github.com/Binary-Hackers/42_Corrections) - Corrections for the older 42 cursus.
