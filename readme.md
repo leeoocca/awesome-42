@@ -358,7 +358,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## About
 
-Project started on 2021-04-14. First published on 2021-04-17 with ~70 links.
+Project started on 2021-04-14. First published on 2021-04-17 with ~70 links. In January 2022 the repo reached 100 stars.
 
 ### Authors
 
