@@ -280,6 +280,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [MiniLibX Linux](https://github.com/42Paris/minilibx-linux)
 - [MiniLibX Install Script](https://github.com/Dirty-No/mlx_install_script) - A bash script to install MiniLibX on Linux.
+- [MLX42](https://github.com/W2Codam/MLX42) - A cross-platform recreation of MiniLibX, running using GLFW/OpenGL.
 - [mlx_example](https://github.com/taelee42/mlx_example)
 
 ### Scripts
