@@ -212,8 +212,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Evaluators](https://www.42evaluators.com)
 	- [Python script](https://github.com/rfautier/find_correction)
-- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus.
+- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (seems to be offline).
 	- [source code](https://github.com/Kwevan/42-ranking)
+- [Find Peers](https://find-peers.joppekoers.nl/) - A list of students working on each project per campus.
+	- [source code](https://github.com/SirMorfield/find-peers)
 - [XP Calculator](https://42.tbailleu.dev)
 
 ### Awesome lists
@@ -247,7 +249,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [Seoul42](https://seoul42.com/)
 		- [source code](https://github.com/progresshans/seoul42)
 - [Codam](#europe)
-	- [codamhero.dev](https://codamhero.dev)
+	- [codamhero.dev](https://codamhero.dev) - Cluster map and other tools.
 		- [source code](https://github.com/OscarMulder/codam-clustermap)
 
 ## Tools
@@ -280,6 +282,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [MiniLibX Linux](https://github.com/42Paris/minilibx-linux)
 - [MiniLibX Install Script](https://github.com/Dirty-No/mlx_install_script) - A bash script to install MiniLibX on Linux.
+- [MLX42](https://github.com/W2Codam/MLX42) - A cross-platform recreation of MiniLibX, running using GLFW/OpenGL.
 - [mlx_example](https://github.com/taelee42/mlx_example)
 
 ### Scripts
@@ -291,6 +294,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [k8s-42-session-setup](https://github.com/f0rkr/k8s-42-session-setup)
 - [scripts_42](https://github.com/lpieri/scripts_42) - Set of functions to change your preferences on macOS.
 - [FU CNIL 42](https://github.com/jgengo/fu_cnil_42)
+- [keep_extensions](https://github.com/FreekBes/keep_extensions) - A script to forcefully install and keep your Chrome extensions on 42 iMacs.
 
 #### Homebrew
 
@@ -322,6 +326,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [source code](https://github.com/kube/vscode-42header)
 - [42/101 Header 2020](https://marketplace.visualstudio.com/items?itemName=frfrey.101header2019)
 	- [source code](https://github.com/Etheram68/Header101-Vscode)
+- [Codam Header](https://marketplace.visualstudio.com/items?itemName=oscarmulder.codamheader)
+	- [source code](https://github.com/OscarMulder/vscode-codam-header)
 
 ##### Norminette highlighters
 
@@ -344,6 +350,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 #### Google Chrome
 
+- [Improved Intra 42](https://chrome.google.com/webstore/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo) - Adds many improvements to 42's Intranet, such as dark mode and customizable profiles.
+	- [source code](https://github.com/FreekBes/improved_intra)
 - [Better Black Hole](https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf) - Hide the demotivating countdown and sad emote, replacing it by a date and a motivating message.
 - [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep) - A simple extension that calculates a user's log time and shows it on their profile.
 	- [source code](https://github.com/mohamedhaddi/ft_logtime)
