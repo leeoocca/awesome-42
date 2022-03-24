@@ -212,6 +212,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Evaluators](https://www.42evaluators.com)
 	- [Python script](https://github.com/rfautier/find_correction)
+- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (seems to be offline).
+	- [source code](https://github.com/Kwevan/42-ranking)
 - [Find Peers](https://find-peers.joppekoers.nl/) - A list of students working on each project per campus.
 	- [source code](https://github.com/SirMorfield/find-peers)
 - [XP Calculator](https://42.tbailleu.dev)
