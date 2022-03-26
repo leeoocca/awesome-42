@@ -163,6 +163,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [1337](https://1337.ma) - Khouribga, Morocco (2018)
 - [1337](https://1337.ma) - Ben Guerir, Morocco (2019)
+- [1337MED](https://1337.ma) - Tetouan, Morocco (2022)
 
 ### Oceania
 
