@@ -44,21 +44,21 @@ function updateCampuses(infile, outfile) {
 				" | "
 			);
 			add(`**First Kickoff**: ${campus.dates.kickoff || "unknown"}`);
+
+			campus.notes && add(campus.notes);
+
+			if (campus.associations) {
+				add(`### Associations`);
+				campus.associations_url &&
+					add(
+						`Discover more on the campus [associations directory](${campus.associations_url}).`
+					);
+				campus.associations.forEach((as) => {
+					add(`#### [${as.name}](${as.url})`);
+					add(`${as.description}`);
+				});
+			}
 		});
-
-		campus.notes && add(campus.notes);
-
-		if (campus.associations) {
-			add(`### Associations`);
-			campus.associations_url &&
-				add(
-					`Discover more on the campus [associations directory](${campus.associations_url}).`
-				);
-			campus.associations.forEach((as) => {
-				add(`#### [${as.name}](${as.url})`);
-				add(`${as.description}`);
-			});
-		}
 	});
 
 	content = content.slice(0, -1);
@@ -97,6 +97,8 @@ function updateProjects(infile, outfile) {
 				presources.forEach((resource) =>
 					add(`- [${resource.name}](${resource.url})`, "\n")
 				);
+
+				add("", "\n");
 			}
 
 			const ptesters = testers.filter((tester) =>
@@ -118,6 +120,8 @@ function updateProjects(infile, outfile) {
 						"\n"
 					)
 				);
+
+				add("", "\n");
 			}
 		});
 	});
