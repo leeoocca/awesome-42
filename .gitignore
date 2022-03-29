@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+node_modules
+
+# should be built by GitHub Action
+campuses.md
+projects.md
