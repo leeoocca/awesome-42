@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "yaml": "^2.0.0-9"
+  },
+  "scripts": {
+    "update": "node update.js"
+  },
+  "type": "module"
+}
