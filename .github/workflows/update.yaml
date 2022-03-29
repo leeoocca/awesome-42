@@ -1,8 +1,11 @@
-name: CI
+name: UpdateMDs
 on:
   push:
     paths:
       - "data/*.yaml"
+      - "scripts/build.js"
+      - "scripts/commit.sh"
+      - ".github/workflows/update.yaml"
 jobs:
   update-md:
     runs-on: ubuntu-latest
