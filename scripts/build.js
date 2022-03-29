@@ -22,9 +22,8 @@ function groupBy(list, keyGetter) {
 }
 
 function authorString(author) {
-	if (!author.url)
-		return author.name
-	return `[${author.name}](${author.url})`
+	if (!author.url) return author.name;
+	return `[${author.name}](${author.url})`;
 }
 
 function updateCampuses(infile, outfile) {
@@ -80,7 +79,6 @@ function updateProjects(infile, outfile) {
 
 	const byRank = groupBy(projects, (project) => project.rank);
 
-
 	byRank.forEach((rank) => {
 		add(`# Rank 0${rank[0].rank}`);
 		rank.forEach((project) => {
@@ -98,11 +96,14 @@ function updateProjects(infile, outfile) {
 
 				ptesters.forEach((tester) =>
 					add(
-						`- [${tester.name}](${
-							tester.url
-						})${` by ${tester.authors?.map(authorString).join(", ")}`}`
-						)
-
+						`- [${tester.name}](${tester.url})${
+							tester.authors
+								? ` by ${tester.authors
+										.map(authorString)
+										.join(", ")}`
+								: ""
+						}`
+					)
 				);
 			}
 		});
