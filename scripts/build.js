@@ -70,8 +70,6 @@ ${campus.city}, ${campus.country}
 			return;
 		}
 	});
-
-	fs.close(file);
 }
 
 function updateProjects(infile, outfile) {

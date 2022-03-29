@@ -19,7 +19,7 @@ jobs:
 
       - run: yarn --cwd scripts
 
-      - run: yarn --cwd scripts update
+      - run: yarn --cwd scripts build
 
       # - name: push
       #   uses: actions-x/commit@v2
