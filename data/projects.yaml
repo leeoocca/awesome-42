@@ -133,13 +133,6 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
-  - name: "libft-unit-test"
-    url: "https://github.com/alelievr/libft-unit-test"
-    projects:
-      - "42cursus-libft"
-    authors:
-      - name: "alelievr"
-        url: "https://github.com/alelievr"
 resources:
   - name: "Google"
     url: "https://google.com/"
