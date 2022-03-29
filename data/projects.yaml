@@ -1,7 +1,4 @@
 projects:
-#   - slug: ""
-#     name: ""
-#     rank: 0
   - name: "Libft"
     slug: "42cursus-libft"
     rank: 0
@@ -90,17 +87,6 @@ projects:
     slug: "ft_transcendence"
     rank: 6
 testers:
-#   - name: ""
-#     url: "https://"
-#     projects:
-#       - ""
-#     authors:
-#       - name: ""
-#         url: "https://"
-  - name: "Tester"
-    url: "https://google.com"
-    projects:
-      - "pipex"
   - name: "Francinette"
     url: "https://github.com/xicodomingues/francinette"
     projects:

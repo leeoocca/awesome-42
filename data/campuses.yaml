@@ -1,17 +1,3 @@
-# - name: ""
-#   city: ""
-#   country: ""
-#   continent: ""
-#   url: "https://"
-#   dates:
-#     piscine: ""
-#     kickoff: ""
-#   notes: ""
-#   associations_url: "https://"
-#   associations:
-#     - name: ""
-#       url: "https://"
-#       description: ""
 - name: "42"
   city: "Paris"
   country: "France"
