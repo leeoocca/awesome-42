@@ -14,8 +14,6 @@
 
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
 
-- [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
-
 # Rank 01
 
 ## get_next_line
