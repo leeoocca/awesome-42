@@ -1,0 +1,71 @@
+# - name: ""
+#   city: ""
+#   country: ""
+#   continent: ""
+#   url: "https://"
+#   dates:
+#     piscine: ""
+#     kickoff: ""
+#   notes: ""
+#   associations_url: "https://"
+#   associations:
+#     - name: ""
+#       url: "https://"
+#       description: ""
+- name: "42"
+  city: "Paris"
+  country: "France"
+  continent: "Europe"
+  url: "https://42.fr"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "First and main campus."
+  associations_url: "https://42.fr/en/42-in-paris/campus-life/associations/"
+  associations:
+    - name: "42l"
+      url: "https://42l.fr"
+      description: "Open Source and Libre culture at 42."
+- name: "42 Silicon Valley"
+  city: "Fremont (CA)"
+  country: "United States of America"
+  continent: "America"
+  url: "https://42.us.org"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "First campus in America. Closed in 2020."
+- name: "42 Roma Luiss"
+  city: "Rome"
+  country: "Italy"
+  continent: "Europe"
+  url: "https://42roma.it"
+  dates:
+    piscine: "2020-11"
+    kickoff: "2021-01"
+  notes: "First campus in Italy."
+- name: "42 Lyon"
+  city: "Lyon"
+  country: "France"
+  continent: "Europe"
+  url: "https://www.42lyon.fr"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "Formerly known as *101*."
+- name: "Codam Coding Challenge"
+  city: "Amsterdam"
+  country: "Netherlands"
+  continent: "Europe"
+  url: "https://www.codam.nl"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "19"
+  city: "Brussels"
+  country: "Belgium"
+  continent: "Europe"
+  url: "https://www.s19.be"
+  dates:
+    piscine: null
+    kickoff: null

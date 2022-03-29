@@ -1,0 +1,119 @@
+projects:
+#   - slug: ""
+#     name: ""
+#     rank: 0
+  - name: "Libft"
+    slug: "42cursus-libft"
+    rank: 0
+  - name: "get_next_line"
+    slug: "42cursus-get_next_line"
+    rank: 1
+  - name: "ft_printf"
+    slug: "42cursus-ft_printf"
+    rank: 1
+  - name: "Born2beroot"
+    slug: "born2beroot"
+    rank: 1
+  - name: "minitalk"
+    slug: "minitalk"
+    rank: 2
+  - name: "pipex"
+    slug: "pipex"
+    rank: 2
+  - name: "so_long"
+    slug: "so_long"
+    rank: 2
+  - name: "FdF"
+    slug: "42cursus-fdf"
+    rank: 2
+  - name: "fract-ol"
+    slug: "42cursus-fract-ol"
+    rank: 2
+  - name: "push_swap"
+    slug: "42cursus-push_swap"
+    rank: 2
+  - name: "Philosophers"
+    slug: "42cursus-philosophers"
+    rank: 3
+  - name: "minishell"
+    slug: "42cursus-minishell"
+    rank: 3
+  - name: "cub3d"
+    slug: "cub3d"
+    rank: 4
+  - name: "miniRT"
+    slug: "minirt"
+    rank: 4
+  - name: "NetPractice"
+    slug: "netpractice"
+    rank: 4
+  - name: "CPP Module 00"
+    slug: "cpp-module-00"
+    rank: 4
+  - name: "CPP Module 01"
+    slug: "cpp-module-01"
+    rank: 4
+  - name: "CPP Module 02"
+    slug: "cpp-module-02"
+    rank: 4
+  - name: "CPP Module 03"
+    slug: "cpp-module-03"
+    rank: 4
+  - name: "CPP Module 04"
+    slug: "cpp-module-04"
+    rank: 4
+  - name: "CPP Module 05"
+    slug: "cpp-module-05"
+    rank: 4
+  - name: "CPP Module 06"
+    slug: "cpp-module-06"
+    rank: 4
+  - name: "CPP Module 07"
+    slug: "cpp-module-07"
+    rank: 4
+  - name: "CPP Module 08"
+    slug: "cpp-module-08"
+    rank: 4
+  - name: "Inception"
+    slug: "inception"
+    rank: 5
+  - name: "ft_containers"
+    slug: "ft_containers"
+    rank: 5
+  - name: "ft_irc"
+    slug: "ft_irc"
+    rank: 5
+  - name: "webserv"
+    slug: "webserv"
+    rank: 5
+  - name: "ft_transcendence"
+    slug: "ft_transcendence"
+    rank: 6
+testers:
+#   - name: ""
+#     url: "https://"
+#     projects:
+#       - ""
+#     authors:
+#       - name: ""
+#         url: "https://"
+  - name: "Tester"
+    url: "https://google.com"
+    projects:
+      - "pipex"
+  - name: "Francinette"
+    url: "https://github.com/xicodomingues/francinette"
+    projects:
+      - "42cursus-libft"
+      - "42cursus-get_next_line"
+      - "minitalk"
+      - "pipex"
+      - "42cursus-ft_printf"
+    authors:
+      - name: "xicodomingues"
+        url: "https://github.com/xicodomingues"
+resources:
+  - name: "Google"
+    url: "https://google.com"
+    projects:
+      - "42cursus-libft"
