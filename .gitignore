@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+node_modules
+
+# these files will be overwritten by a GitHub Action
+campuses.md
+projects.md

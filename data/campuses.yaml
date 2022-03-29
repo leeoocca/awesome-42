@@ -1,0 +1,368 @@
+# africa
+- name: "1337 Ben Guérir"
+  city: "Ben Guérir"
+  country: "Morocco"
+  continent: "Africa"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "1337 Khouribga"
+  city: "Khouribga"
+  country: "Morocco"
+  continent: "Africa"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# america
+- name: "42 Rio"
+  city: "Rio de Janeiro"
+  country: "Brazil"
+  continent: "America"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 São Paulo"
+  city: "São Paulo"
+  country: "Brazil"
+  continent: "America"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Québec"
+  city: "Québec"
+  country: "Canada"
+  continent: "America"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# asia
+- name: "42 Tokyo"
+  city: "Tokyo"
+  country: "Japan"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Amman"
+  city: "Amman"
+  country: "Jordan"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Kuala Lampur"
+  city: "Kuala Lampur"
+  country: "Malaysia"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Seoul"
+  city: "Seoul"
+  country: "South Korea"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Bangkok"
+  city: "Bangkok"
+  country: "Thailand"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Kocaeli"
+  city: "Kocaeli"
+  country: "Turkey"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Abu Dhabi"
+  city: "Abu Dhabi"
+  country: "United Arab Emirates"
+  continent: "Asia"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# europe
+- name: "19"
+  city: "Brussels"
+  country: "Belgium"
+  continent: "Europe"
+  url: "https://www.s19.be"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Yerevan"
+  city: "Yerevan"
+  country: "Armenia"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "Hive"
+  city: "Helsinki"
+  country: "Finland"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Lyon"
+  city: "Lyon"
+  country: "France"
+  continent: "Europe"
+  url: "https://www.42lyon.fr"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "Formerly known as *101*."
+- name: "42 Mulhouse"
+  city: "Mulhouse"
+  country: "France"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Nice"
+  city: "Nice"
+  country: "France"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42"
+  city: "Paris"
+  country: "France"
+  continent: "Europe"
+  url: "https://42.fr"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "First and main campus."
+  associations_url: "https://42.fr/en/42-in-paris/campus-life/associations/"
+  associations:
+    - name: "42l"
+      url: "https://42l.fr"
+      description: "Open Source and Libre culture at 42."
+- name: "42 Heilbronn"
+  city: "Heilbronn"
+  country: "Germany"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Wolfsburg"
+  city: "Wolfsburg"
+  country: "Germany"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Roma"
+  city: "Rome"
+  country: "Italy"
+  continent: "Europe"
+  url: "https://42roma.it"
+  dates:
+    piscine: "2020-11"
+    kickoff: "2021-01"
+  notes: "First campus in Italy."
+- name: "42 Lisboa"
+  city: "Lisboa"
+  country: "Portugal"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "School 21"
+  city: "Moscow"
+  country: "Russia"
+  continent: "Europe"
+  url: "https://21-school.ru/"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "School 21"
+  city: "Kazan"
+  country: "Russia"
+  continent: "Europe"
+  url: "https://21-school.ru/"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Alicante"
+  city: "Alicante"
+  country: "Spain"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Barcelona"
+  city: "Barcelona"
+  country: "Spain"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Madrid"
+  city: "Madrid"
+  country: "Spain"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Málaga"
+  city: "Málaga"
+  country: "Spain"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Urduliz"
+  city: "Urduliz"
+  country: "Spain"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Lausanne"
+  city: "Lausanne"
+  country: "Switzerland"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Lausanne"
+  city: "Lausanne"
+  country: "Switzerland"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "Codam"
+  city: "Amsterdam"
+  country: "Netherlands"
+  continent: "Europe"
+  url: "https://www.codam.nl"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Istanbul"
+  city: "Istanbul"
+  country: "Turkey"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# oceania
+- name: "42 Adelaide"
+  city: "Adelaide"
+  country: "Australia"
+  continent: "Oceania"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# future
+- name: "42 Vienna"
+  city: "Vienna"
+  country: "Austria"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Prague"
+  city: "Prague"
+  country: "Czech Republic"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Angoulême"
+  city: "Angoulême"
+  country: "France"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Berlin"
+  city: "Berlin"
+  country: "Germany"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Firenze"
+  city: "Florence"
+  country: "Italy"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 Porto"
+  city: "Porto"
+  country: "Portugal"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "42 London"
+  city: "London"
+  country: "United Kingdom"
+  continent: "Europe"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+- name: "1337 Tétouan"
+  city: "Tétouan"
+  country: "Morocco"
+  continent: "Africa"
+  url: "https://"
+  dates:
+    piscine: null
+    kickoff: null
+# closed
+- name: "42 Silicon Valley"
+  city: "Fremont (CA)"
+  country: "United States of America"
+  continent: "America"
+  url: "https://42.us.org"
+  dates:
+    piscine: null
+    kickoff: null
+  notes: "First campus in America. Closed in 2020."

@@ -1,0 +1,37 @@
+name: CI
+on:
+  push:
+    paths:
+      - "data/*.yaml"
+jobs:
+  update-md:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+          cache: "yarn"
+          cache-dependency-path: scripts/yarn.lock
+
+      - run: yarn --cwd scripts
+
+      - run: yarn --cwd scripts build
+
+      - name: setup git config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - run: git rm .gitignore && git reset
+
+      - name: commit projects
+        run: sh scripts/commit.sh projects
+
+      - name: commit campuses
+        run: sh scripts/commit.sh campuses
+
+      - name: push
+        run: git push origin
