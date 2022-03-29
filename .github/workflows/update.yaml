@@ -32,19 +32,17 @@ jobs:
       # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
       - name: setup git config
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       # Stage the file, commit and push
       - name: commit projects
         run: |
-          git add projects.md
-          it diff-index --quiet HEAD || git commit -m "update projects.md"
+          git diff-index HEAD | grep projects.md || git add projects.md && git commit -m "update projects.md"
 
       - name: commit campuses
         run: |
-          git add campuses.md
-          it diff-index --quiet HEAD || git commit -m "update campuses.md"
+          git diff-index HEAD | grep campuses.md || git add campuses.md && git commit -m "update campuses.md"
 
       - name: push
         run: |
