@@ -98,6 +98,48 @@ testers:
     authors:
       - name: "xicodomingues"
         url: "https://github.com/xicodomingues"
+  - name: "libft-unit-test"
+    url: "https://github.com/alelievr/libft-unit-test"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "alelievr"
+        url: "https://github.com/alelievr"
+  - name: "ft_printf_test"
+    url: "https://github.com/cacharle/ft_printf_test"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "philosophers_test"
+    url: "https://github.com/cacharle/philosophers_test"
+    projects:
+      - "42cursus-philosophers"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "minishell_test"
+    url: "https://github.com/cacharle/minishell_test"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "ft_containers_test"
+    url: "https://github.com/cacharle/ft_containers_test"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "libft-unit-test"
+    url: "https://github.com/alelievr/libft-unit-test"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "alelievr"
+        url: "https://github.com/alelievr"
 resources:
   - name: "Google"
     url: "https://google.com"
