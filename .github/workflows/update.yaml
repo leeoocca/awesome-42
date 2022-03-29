@@ -26,13 +26,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: commit projects
-        run: |
-          git diff-index HEAD | grep projects.md && git add -f projects.md && git commit -m "update projects.md"
+        run: sh scripts/commit.sh projects
 
       - name: commit campuses
-        run: |
-          git diff-index HEAD | grep campuses.md && git add -f campuses.md && git commit -m "update campuses.md"
+        run: sh scripts/commit.sh campuses
 
       - name: push
-        run: |
-          git push origin
+        run: git push origin
