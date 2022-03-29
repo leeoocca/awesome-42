@@ -3,8 +3,8 @@ import YAML from "yaml";
 
 let content = "";
 
-function add(str) {
-	content = `${content}${str}\n\n`;
+function add(str, terminator = "\n\n") {
+	content = `${content}${str}${terminator}`;
 }
 
 function groupBy(list, keyGetter) {
@@ -37,30 +37,28 @@ function updateCampuses(infile, outfile) {
 	byContinent.forEach((continent) => {
 		add(`# ${continent[0].continent}`);
 		continent.forEach((campus) => {
+			add(`## [${campus.name}](${campus.url})`);
+			add(`${campus.city}, ${campus.country}`);
 			add(
-				`## [${campus.name}](${campus.url})
-
-${campus.city}, ${campus.country}
-
-**First Piscine**: ${campus.dates.piscine || "unknown"} | **First Kickoff**: ${
-					campus.dates.kickoff || "unknown"
-				}`
+				`**First Piscine**: ${campus.dates.piscine || "unknown"}`,
+				" | "
 			);
-
-			campus.notes && add(campus.notes);
-
-			if (campus.associations) {
-				add(`### Associations`);
-				campus.associations_url &&
-					add(
-						`Discover more on the campus [associations directory](${campus.associations_url}).`
-					);
-				campus.associations.forEach((as) => {
-					add(`#### [${as.name}](${as.url})`);
-					add(`${as.description}`);
-				});
-			}
+			add(`**First Kickoff**: ${campus.dates.kickoff || "unknown"}`);
 		});
+
+		campus.notes && add(campus.notes);
+
+		if (campus.associations) {
+			add(`### Associations`);
+			campus.associations_url &&
+				add(
+					`Discover more on the campus [associations directory](${campus.associations_url}).`
+				);
+			campus.associations.forEach((as) => {
+				add(`#### [${as.name}](${as.url})`);
+				add(`${as.description}`);
+			});
+		}
 	});
 
 	content = content.slice(0, -1);
@@ -97,7 +95,7 @@ function updateProjects(infile, outfile) {
 				add("### Resources");
 
 				presources.forEach((resource) =>
-					add(`- [${resource.name}](${resource.url})`)
+					add(`- [${resource.name}](${resource.url})`, "\n")
 				);
 			}
 
@@ -116,7 +114,8 @@ function updateProjects(infile, outfile) {
 										.map(authorString)
 										.join(", ")}`
 								: ""
-						}`
+						}`,
+						"\n"
 					)
 				);
 			}
