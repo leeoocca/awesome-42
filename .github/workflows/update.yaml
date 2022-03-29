@@ -1,7 +1,8 @@
 name: CI
-on: push
-  paths:
-    - 'data/*.yaml'
+on:
+  push:
+    paths:
+      - 'data/*.yaml'
 jobs:
   update-md:
     runs-on: ubuntu-latest
