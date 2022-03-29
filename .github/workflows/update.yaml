@@ -2,7 +2,7 @@ name: CI
 on:
   push:
     paths:
-      - 'data/*.yaml'
+      - "data/*.yaml"
 jobs:
   update-md:
     runs-on: ubuntu-latest
@@ -12,8 +12,8 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: '16'
-          cache: 'yarn'
+          node-version: "16"
+          cache: "yarn"
           cache-dependency-path: scripts/yarn.lock
 
       - run: yarn --cwd scripts
@@ -27,11 +27,11 @@ jobs:
 
       - name: commit projects
         run: |
-          git diff-index HEAD | grep projects.md || git add -f projects.md && git commit -m "update projects.md"
+          git diff-index HEAD | grep projects.md && git add -f projects.md && git commit -m "update projects.md"
 
       - name: commit campuses
         run: |
-          git diff-index HEAD | grep campuses.md || git add -f campuses.md && git commit -m "update campuses.md"
+          git diff-index HEAD | grep campuses.md && git add -f campuses.md && git commit -m "update campuses.md"
 
       - name: push
         run: |
