@@ -142,6 +142,6 @@ testers:
         url: "https://github.com/alelievr"
 resources:
   - name: "Google"
-    url: "https://google.com"
+    url: "https://google.com/"
     projects:
       - "42cursus-libft"
