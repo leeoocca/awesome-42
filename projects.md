@@ -6,11 +6,15 @@
 
 ### Resources
 
-- [Google](https://google.com)
+- [Google](https://google.com/)
 
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+
+- [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
+
+- [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
 
 # Rank 01
 
@@ -29,6 +33,8 @@
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+
+- [ft_printf_test](https://github.com/cacharle/ft_printf_test) by [cacharle](https://github.com/cacharle)
 
 ## Born2beroot
 
@@ -74,9 +80,17 @@
 
 [Intra](https://projects.intra.42.fr/projects/42cursus-philosophers)
 
+### Testers
+
+- [philosophers_test](https://github.com/cacharle/philosophers_test) by [cacharle](https://github.com/cacharle)
+
 ## minishell
 
 [Intra](https://projects.intra.42.fr/projects/42cursus-minishell)
+
+### Testers
+
+- [minishell_test](https://github.com/cacharle/minishell_test) by [cacharle](https://github.com/cacharle)
 
 # Rank 04
 
@@ -137,6 +151,10 @@
 ## ft_containers
 
 [Intra](https://projects.intra.42.fr/projects/ft_containers)
+
+### Testers
+
+- [ft_containers_test](https://github.com/cacharle/ft_containers_test) by [cacharle](https://github.com/cacharle)
 
 ## ft_irc
 
