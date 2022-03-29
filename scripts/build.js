@@ -63,6 +63,8 @@ ${campus.city}, ${campus.country}
 		});
 	});
 
+	content = content.slice(0, -1);
+
 	fs.writeFile(outfile, content, (err) => {
 		if (err) {
 			console.error(err);
@@ -95,9 +97,7 @@ function updateProjects(infile, outfile) {
 				add("### Resources");
 
 				presources.forEach((resource) =>
-					add(
-						`- [${resource.name}](${resource.url})`
-					)
+					add(`- [${resource.name}](${resource.url})`)
 				);
 			}
 
@@ -122,6 +122,8 @@ function updateProjects(infile, outfile) {
 			}
 		});
 	});
+
+	content = content.slice(0, -1);
 
 	fs.writeFile(outfile, content, (err) => {
 		if (err) {
