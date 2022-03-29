@@ -7,7 +7,6 @@ jobs:
   update-md:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the branch
       - name: checkout
         uses: actions/checkout@v2
 
@@ -28,11 +27,11 @@ jobs:
 
       - name: commit projects
         run: |
-          git diff-index HEAD | grep projects.md || git add projects.md && git commit -m "update projects.md"
+          git diff-index HEAD | grep projects.md || git add -f projects.md && git commit -m "update projects.md"
 
       - name: commit campuses
         run: |
-          git diff-index HEAD | grep campuses.md || git add campuses.md && git commit -m "update campuses.md"
+          git diff-index HEAD | grep campuses.md || git add -f campuses.md && git commit -m "update campuses.md"
 
       - name: push
         run: |

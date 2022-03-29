@@ -3,5 +3,6 @@
 node_modules
 
 # should be built by GitHub Action
+# will be overwritten
 campuses.md
 projects.md
