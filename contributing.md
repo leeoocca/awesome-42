@@ -25,7 +25,7 @@ Pull requests are the best way to propose changes. We actively welcome your pull
 
 ### [readme.md](readme.md)
 
-Types of link:
+**Links** to add:
 
 - Anything that doesn't fit in either [campuses.yaml](#campusesyaml) or [projects.yaml](#projectsyaml).
 
@@ -66,7 +66,7 @@ When proposing changes, be sure to adhere to the following formatting:
 | `url`                      |    Y     |    URL    | Campus homepage                            |
 | `dates.piscine`            |          |   Date    | First day (or month) of the first Piscine  |
 | `dates.kickoff`            |          |   Date    | First day (or month) of the first Kickoff  |
-| `notes`                    |          |  string   |                                            |
+| `notes`                    |          |  string   | Can be valid Markdown                      |
 | `associations_url`         |          |    URL    | Webpage that lists the campus associations |
 | `associations.name`        |          |  string   |                                            |
 | `associations.url`         |          |    URL    |                                            |
@@ -74,7 +74,7 @@ When proposing changes, be sure to adhere to the following formatting:
 
 **URL**s should always start with `https://` and be valid URLs.
 
-**Continents**
+**Continent**s
 
 - Africa
 - America
@@ -115,7 +115,7 @@ When proposing changes, be sure to adhere to the following formatting:
 - Resources
 - Testers
 
-**Schemas**:
+**Schema**s:
 
 | Field          | Required |        Type        | Description                    |
 | -------------- | :------: | :----------------: | ------------------------------ |
@@ -136,7 +136,7 @@ When proposing changes, be sure to adhere to the following formatting:
 
 **URL**s should always start with `https://` and be valid URLs.
 
-**Templates**:
+**Template**s:
 
 ```yaml
 # projects:
