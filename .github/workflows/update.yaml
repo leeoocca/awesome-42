@@ -1,8 +1,7 @@
 name: CI
 on: push
-# on: [push, pull_request]
-#   paths:
-#     - 'data/*.yaml'
+  paths:
+    - 'data/*.yaml'
 jobs:
   update-md:
     runs-on: ubuntu-latest
@@ -21,21 +20,11 @@ jobs:
 
       - run: yarn --cwd scripts build
 
-      # - name: push
-      #   uses: actions-x/commit@v2
-      #   with:
-      #     email: me@example.com
-      #     name: GitHub Actions Autocommitter
-      #     branch: master
-      #     files: file1 file2 directory directory2/file3
-
-      # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
       - name: setup git config
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # Stage the file, commit and push
       - name: commit projects
         run: |
           git diff-index HEAD | grep projects.md || git add projects.md && git commit -m "update projects.md"
