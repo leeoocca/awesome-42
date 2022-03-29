@@ -53,7 +53,7 @@ ${campus.city}, ${campus.country}
 				add(`### Associations`);
 				campus.associations_url &&
 					add(
-						`Discover more on the campus' [associations directory](${campus.associations_url}).`
+						`Discover more on the campus [associations directory](${campus.associations_url}).`
 					);
 				campus.associations.forEach((as) => {
 					add(`#### [${as.name}](${as.url})`);
