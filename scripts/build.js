@@ -73,7 +73,7 @@ ${campus.city}, ${campus.country}
 
 function updateProjects(infile, outfile) {
 	const file = fs.readFileSync(infile, "utf8");
-	const { projects, testers } = YAML.parse(file);
+	const { projects, testers, resources } = YAML.parse(file);
 
 	content = "";
 
@@ -86,6 +86,20 @@ function updateProjects(infile, outfile) {
 			add(
 				`[Intra](https://projects.intra.42.fr/projects/${project.slug})`
 			);
+
+			const presources = resources.filter((resource) =>
+				resource.projects.includes(project.slug)
+			);
+
+			if (presources.length) {
+				add("### Resources");
+
+				presources.forEach((resource) =>
+					add(
+						`- [${resource.name}](${resource.url})`
+					)
+				);
+			}
 
 			const ptesters = testers.filter((tester) =>
 				tester.projects.includes(project.slug)
