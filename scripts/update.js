@@ -118,5 +118,5 @@ function updateProjects(infile, outfile) {
 	});
 }
 
-// updateCampuses("../data/campuses.yaml", "./campuses.md");
+updateCampuses("../data/campuses.yaml", "../campuses.md");
 updateProjects("../data/projects.yaml", "../projects.md");
