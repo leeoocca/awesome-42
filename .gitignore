@@ -2,7 +2,6 @@
 .vscode
 node_modules
 
-# should be built by GitHub Action
-# will be overwritten
+# these files will be overwritten by a GitHub Action
 campuses.md
 projects.md
