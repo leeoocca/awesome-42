@@ -1,0 +1,50 @@
+name: CI
+on: push
+# on: [push, pull_request]
+#   paths:
+#     - 'data/*.yaml'
+jobs:
+  update-md:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: 'yarn'
+
+      - run: yarn --cwd scripts
+
+      - run: yarn --cwd scripts update
+
+      # - name: push
+      #   uses: actions-x/commit@v2
+      #   with:
+      #     email: me@example.com
+      #     name: GitHub Actions Autocommitter
+      #     branch: master
+      #     files: file1 file2 directory directory2/file3
+
+      # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      # Stage the file, commit and push
+      - name: commit projects
+        run: |
+          git add projects.md
+          it diff-index --quiet HEAD || git commit -m "update projects.md"
+
+      - name: commit campuses
+        run: |
+          git add campuses.md
+          it diff-index --quiet HEAD || git commit -m "update campuses.md"
+
+      - name: push
+        run: |
+          git push origin
