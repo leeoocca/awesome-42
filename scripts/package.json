@@ -5,5 +5,7 @@
   "scripts": {
     "build": "node build.js"
   },
+  "license": "ISC",
+  "private": true,
   "type": "module"
 }
