@@ -217,6 +217,13 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  - name: "containers-benchmark"
+    url: "https://github.com/nesvoboda/containers-benchmark"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "nesvoboda"
+        url: "https://github.com/nesvoboda"
 resources:
   - name: "Google"
     url: "https://google.com/"
@@ -230,3 +237,10 @@ resources:
     authors:
       - name: "t0mm4rx"
         url: "https://github.com/t0mm4rx"
+  - name: "Containers Battleground"
+    url: "https://containers-battleground.netlify.app/"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "nesvoboda"
+        url: "https://github.com/nesvoboda"
