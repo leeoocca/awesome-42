@@ -167,6 +167,48 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  - name: "minishell_tester"
+    url: "https://github.com/thallard/minishell_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "thallard"
+        url: "https://github.com/thallard"
+  - name: "minishell_unit_test"
+    url: "https://github.com/martingarcialopez/minishell_unit_test"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "martingarcialopez"
+        url: "https://github.com/martingarcialopez"
+  - name: "minishell-tester"
+    url: "https://github.com/solaldunckel/minishell-tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "solaldunckel"
+        url: "https://github.com/solaldunckel"
+  - name: "msh_tester"
+    url: "https://github.com/alchrist42/msh_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "alchrist42"
+        url: "https://github.com/alchrist42"
+  - name: "mini_tester"
+    url: "https://github.com/potatokuka/mini_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "potatokuka"
+        url: "https://github.com/potatokuka"
+  - name: "minishell-helper"
+    url: "https://github.com/fkymy/minishell-helper"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "fkymy"
+        url: "https://github.com/fkymy"
   # ft_containers
   - name: "ft_containers_test"
     url: "https://github.com/cacharle/ft_containers_test"
@@ -180,3 +222,11 @@ resources:
     url: "https://google.com/"
     projects:
       - "42cursus-libft"
+  - name: "minishell_tests"
+    url: "https://github.com/t0mm4rx/minishell_tests"
+    notes: "A set of tests for minishell"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "t0mm4rx"
+        url: "https://github.com/t0mm4rx"
