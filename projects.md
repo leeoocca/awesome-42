@@ -11,6 +11,7 @@
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+- [Moulitest](https://github.com/yyang42/moulitest) by [yyang42](https://github.com/yyang42)
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
 - [libftTester](https://github.com/Tripouille/libftTester) by [Tripouille](https://github.com/Tripouille)
 - [libft-war-machine](https://github.com/y3ll0w42/libft-war-machine) by [y3ll0w42](https://github.com/y3ll0w42)
@@ -24,6 +25,7 @@
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+- [Moulitest](https://github.com/yyang42/moulitest) by [yyang42](https://github.com/yyang42)
 - [gnlTester](https://github.com/Tripouille/gnlTester) by [Tripouille](https://github.com/Tripouille)
 
 ## ft_printf
@@ -33,6 +35,7 @@
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+- [Moulitest](https://github.com/yyang42/moulitest) by [yyang42](https://github.com/yyang42)
 - [ft_printf_test](https://github.com/cacharle/ft_printf_test) by [cacharle](https://github.com/cacharle)
 - [printfTester](https://github.com/Tripouille/printfTester) by [Tripouille](https://github.com/Tripouille)
 - [printf-unit-test](https://github.com/alelievr/printf-unit-test) by [alelievr](https://github.com/alelievr)
@@ -108,6 +111,17 @@
 ## cub3d
 
 [Intra](https://projects.intra.42.fr/projects/cub3d)
+
+### Resources
+
+- [Some tips and tricks to break a cub3D during a review](https://gist.github.com/maxdesalle/5e9d1dec0799e6f57f66ee4e35243b74)
+- [Cub3D random maze generator](https://github.com/0auBSQ/Cub3D-random-maze-generator)
+- [[FR] Notions mathématiques du projet Cub3D](https://docs.google.com/document/d/1tdNYHg3Mfqf8dr8W6Ajs3seUugwtmaQizZ7BzimkXog/view)
+
+### Testers
+
+- [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester) by [humblEgo](https://github.com/humblEgo)
+- [cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester) by [mlaraki](https://github.com/mlaraki)
 
 ## miniRT
 
