@@ -121,6 +121,14 @@ testers:
     authors:
       - name: "y3ll0w42"
         url: "https://github.com/y3ll0w42"
+  # get_next_line
+  - name: "gnlTester"
+    url: "https://github.com/Tripouille/gnlTester"
+    projects:
+      - "42cursus-get_next_line"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
   # ft_printf
   - name: "ft_printf_test"
     url: "https://github.com/cacharle/ft_printf_test"
