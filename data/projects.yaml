@@ -137,6 +137,20 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  - name: "printfTester"
+    url: "https://github.com/Tripouille/printfTester"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
+  - name: "printf-unit-test"
+    url: "https://github.com/alelievr/printf-unit-test"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "alelievr"
+        url: "https://github.com/alelievr"
   # philosophers
   - name: "philosophers_test"
     url: "https://github.com/cacharle/philosophers_test"
