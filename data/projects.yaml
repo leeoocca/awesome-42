@@ -107,6 +107,20 @@ testers:
     authors:
       - name: "alelievr"
         url: "https://github.com/alelievr"
+  - name: "libftTester"
+    url: "https://github.com/Tripouille/libftTester"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
+  - name: "libft-war-machine"
+    url: "https://github.com/y3ll0w42/libft-war-machine"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "y3ll0w42"
+        url: "https://github.com/y3ll0w42"
   # ft_printf
   - name: "ft_printf_test"
     url: "https://github.com/cacharle/ft_printf_test"
