@@ -218,6 +218,21 @@ testers:
     authors:
       - name: "fkymy"
         url: "https://github.com/fkymy"
+  # cub3d
+  - name: "cub3D_map_tester"
+    url: "https://github.com/humblEgo/cub3D_map_tester"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "humblEgo"
+        url: "https://github.com/humblEgo"
+  - name: "cub3D_leaks_maps_tester"
+    url: "https://github.com/mlaraki/cub3D_leaks_maps_tester"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "mlaraki"
+        url: "https://github.com/mlaraki"
   # ft_containers
   - name: "ft_containers_test"
     url: "https://github.com/cacharle/ft_containers_test"
@@ -234,10 +249,12 @@ testers:
       - name: "nesvoboda"
         url: "https://github.com/nesvoboda"
 resources:
+  # libft
   - name: "Google"
     url: "https://google.com/"
     projects:
       - "42cursus-libft"
+  # minishell
   - name: "minishell_tests"
     url: "https://github.com/t0mm4rx/minishell_tests"
     notes: "A set of tests for minishell"
@@ -246,6 +263,29 @@ resources:
     authors:
       - name: "t0mm4rx"
         url: "https://github.com/t0mm4rx"
+  # cub3d
+  - name: "Some tips and tricks to break a cub3D during a review"
+    url: "https://gist.github.com/maxdesalle/5e9d1dec0799e6f57f66ee4e35243b74"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "maxdesalle"
+        url: "https://gist.github.com/maxdesalle"
+  - name: "Cub3D random maze generator"
+    url: "https://github.com/0auBSQ/Cub3D-random-maze-generator"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "0auBSQ"
+        url: "https://github.com/0auBSQ"
+  - name: "[FR] Notions mathématiques du projet Cub3D"
+    url: "https://docs.google.com/document/d/1tdNYHg3Mfqf8dr8W6Ajs3seUugwtmaQizZ7BzimkXog/view"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "qpupier"
+        url: "https://github.com/qpupier"
+  # containers
   - name: "Containers Battleground"
     url: "https://containers-battleground.netlify.app/"
     projects:
