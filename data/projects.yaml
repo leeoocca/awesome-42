@@ -87,6 +87,7 @@ projects:
     slug: "ft_transcendence"
     rank: 6
 testers:
+  # multiple projects
   - name: "Francinette"
     url: "https://github.com/xicodomingues/francinette"
     projects:
@@ -98,6 +99,7 @@ testers:
     authors:
       - name: "xicodomingues"
         url: "https://github.com/xicodomingues"
+  # libft
   - name: "libft-unit-test"
     url: "https://github.com/alelievr/libft-unit-test"
     projects:
@@ -105,6 +107,7 @@ testers:
     authors:
       - name: "alelievr"
         url: "https://github.com/alelievr"
+  # ft_printf
   - name: "ft_printf_test"
     url: "https://github.com/cacharle/ft_printf_test"
     projects:
@@ -112,6 +115,7 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  # philosophers
   - name: "philosophers_test"
     url: "https://github.com/cacharle/philosophers_test"
     projects:
@@ -119,6 +123,7 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  # minishell
   - name: "minishell_test"
     url: "https://github.com/cacharle/minishell_test"
     projects:
@@ -126,6 +131,7 @@ testers:
     authors:
       - name: "cacharle"
         url: "https://github.com/cacharle"
+  # ft_containers
   - name: "ft_containers_test"
     url: "https://github.com/cacharle/ft_containers_test"
     projects:
