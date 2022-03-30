@@ -99,6 +99,15 @@ testers:
     authors:
       - name: "xicodomingues"
         url: "https://github.com/xicodomingues"
+  - name: "Moulitest"
+    url: "https://github.com/yyang42/moulitest"
+    projects:
+      - "42cursus-libft"
+      - "42cursus-get_next_line"
+      - "42cursus-ft_printf"
+    authors:
+      - name: "yyang42"
+        url: "https://github.com/yyang42"
   # libft
   - name: "libft-unit-test"
     url: "https://github.com/alelievr/libft-unit-test"
