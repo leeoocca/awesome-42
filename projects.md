@@ -12,6 +12,8 @@
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test) by [alelievr](https://github.com/alelievr)
+- [libftTester](https://github.com/Tripouille/libftTester) by [Tripouille](https://github.com/Tripouille)
+- [libft-war-machine](https://github.com/y3ll0w42/libft-war-machine) by [y3ll0w42](https://github.com/y3ll0w42)
 
 # Rank 01
 
@@ -22,6 +24,7 @@
 ### Testers
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
+- [gnlTester](https://github.com/Tripouille/gnlTester) by [Tripouille](https://github.com/Tripouille)
 
 ## ft_printf
 
@@ -31,6 +34,8 @@
 
 - [Francinette](https://github.com/xicodomingues/francinette) by [xicodomingues](https://github.com/xicodomingues)
 - [ft_printf_test](https://github.com/cacharle/ft_printf_test) by [cacharle](https://github.com/cacharle)
+- [printfTester](https://github.com/Tripouille/printfTester) by [Tripouille](https://github.com/Tripouille)
+- [printf-unit-test](https://github.com/alelievr/printf-unit-test) by [alelievr](https://github.com/alelievr)
 
 ## Born2beroot
 
@@ -84,9 +89,19 @@
 
 [Intra](https://projects.intra.42.fr/projects/42cursus-minishell)
 
+### Resources
+
+- [minishell_tests](https://github.com/t0mm4rx/minishell_tests)
+
 ### Testers
 
 - [minishell_test](https://github.com/cacharle/minishell_test) by [cacharle](https://github.com/cacharle)
+- [minishell_tester](https://github.com/thallard/minishell_tester) by [thallard](https://github.com/thallard)
+- [minishell_unit_test](https://github.com/martingarcialopez/minishell_unit_test) by [martingarcialopez](https://github.com/martingarcialopez)
+- [minishell-tester](https://github.com/solaldunckel/minishell-tester) by [solaldunckel](https://github.com/solaldunckel)
+- [msh_tester](https://github.com/alchrist42/msh_tester) by [alchrist42](https://github.com/alchrist42)
+- [mini_tester](https://github.com/potatokuka/mini_tester) by [potatokuka](https://github.com/potatokuka)
+- [minishell-helper](https://github.com/fkymy/minishell-helper) by [fkymy](https://github.com/fkymy)
 
 # Rank 04
 
@@ -148,9 +163,14 @@
 
 [Intra](https://projects.intra.42.fr/projects/ft_containers)
 
+### Resources
+
+- [Containers Battleground](https://containers-battleground.netlify.app/)
+
 ### Testers
 
 - [ft_containers_test](https://github.com/cacharle/ft_containers_test) by [cacharle](https://github.com/cacharle)
+- [containers-benchmark](https://github.com/nesvoboda/containers-benchmark) by [nesvoboda](https://github.com/nesvoboda)
 
 ## ft_irc
 
