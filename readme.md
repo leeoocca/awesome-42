@@ -215,6 +215,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [Python script](https://github.com/rfautier/find_correction)
 - [Find Peers](https://find-peers.codam.nl/) - A list of students working on each project per campus.
 	- [source code](https://github.com/codam-coding-college/find-peers)
+- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (out of date).
+	- [source code](https://github.com/Kwevan/42-ranking)
 - [XP Calculator](https://42.tbailleu.dev)
 
 ### Awesome lists
