@@ -140,6 +140,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
 - [42 Roma](https://42roma.it) - Rome, Italy (2020)
 - [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
+-	[42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
 - [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
 - [42 Wolfsburg](https://42wolfsburg.de) - Wolfsburg, Germany (2020)
 - [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)

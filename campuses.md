@@ -260,7 +260,7 @@ Angoulême, France
 
 Berlin, Germany
 
-**First Piscine**: unknown | **First Kickoff**: unknown
+**First Piscine**: unknown | **First Kickoff**: 28th November 2022
 
 ## [42 Firenze](https://)
 

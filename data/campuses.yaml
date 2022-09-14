@@ -320,10 +320,10 @@
   city: "Berlin"
   country: "Germany"
   continent: "Europe"
-  url: "https://"
+  url: "https://42berlin.de"
   dates:
     piscine: null
-    kickoff: null
+    kickoff: "28/04/2022"
 - name: "42 Firenze"
   city: "Florence"
   country: "Italy"
