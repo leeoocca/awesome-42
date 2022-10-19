@@ -83,15 +83,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42FileChecker](https://github.com/jgigault/42FileChecker) - Tiny bash script for testing and checking files according to the rules of the subjects.
 - [malloc_failer](https://github.com/hilmi-yilmaz/malloc_failer) - A script to test malloc protection.
 
-### PDFs
-
-- [42 Subjects](https://github.com/Kwevan/42_Subjects_2020_with_versioning) - Current cursus subjects with versioning.
-- [All School 42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - Subjects both in English and Russian.
-- [School 21 Checklists](https://github.com/caecitasminimus/school21-checklists) - Current cursus corrections, generally up to date.
-- [42 Subjects](https://github.com/Binary-Hackers/42_Subjects) - Subjects for the older 42 cursus.
-- [42 Subjects](https://github.com/fpetras/42-subjects) - Subjects for the older 42 cursus.
-- [42 Corrections](https://github.com/Binary-Hackers/42_Corrections) - Corrections for the older 42 cursus.
-
 ### Licenses
 
 - [42 Unlicense](https://github.com/gcamerli/42unlicense) - A flavored version of the more general [Unlicense](https://en.wikipedia.org/wiki/Unlicense) public license to publish your 42 educational projects and set your code as free.
