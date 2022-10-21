@@ -256,11 +256,11 @@ Angoulême, France
 
 **First Piscine**: unknown | **First Kickoff**: unknown
 
-## [42 Berlin](https://)
+## [42 Berlin](https://42berlin.de)
 
 Berlin, Germany
 
-**First Piscine**: unknown | **First Kickoff**: unknown
+**First Piscine**: unknown | **First Kickoff**: 2022-11-28
 
 ## [42 Firenze](https://)
 
