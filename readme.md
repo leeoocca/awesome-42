@@ -136,6 +136,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
 - [42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
 - [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
+- [42 Lausanne](https://42lausanne.ch) - Lausanne, Switzerland (2021)
+- [42 Zürich](https://42zurich.ch) - Zürich, Switzerland (2024)
 
 ### America
 
