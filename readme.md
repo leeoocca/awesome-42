@@ -121,6 +121,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Europe
 
+- [42 Vienna](https://www.42vienna.com) - Vienna, Austria (2022)
 - [42 Paris](https://42.fr) - Paris, France (2013)
 - [42 Lyon](https://www.42lyon.fr) - Formerly *101*. Lyon, France (2017)
 - [Codam](https://www.codam.nl) - Amsterdam, The Netherlands (2018)
