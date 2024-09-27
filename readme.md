@@ -129,6 +129,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [21](https://21-school.ru) - Kazan, Russia (2019)
 - [Hive](https://www.hive.fi) - Helsinki, Finland (2019)
 - [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
+- [42 Lausanne](https://42lausanne.ch) - Lausanne, Switzerland (2019)
 - [42 Roma](https://42roma.it) - Rome, Italy (2020)
 - [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
 - [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
