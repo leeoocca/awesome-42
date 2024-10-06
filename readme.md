@@ -139,7 +139,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
 - [42 Warsaw](https://42warsaw.pl) - Warsaw, Poland (2024)
 
-
 ### America
 
 - [42 Silicon Valley](https://www.42.us.org) - Fremont, California, USA (2016)
