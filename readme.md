@@ -137,6 +137,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
 - [42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
 - [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
+- [42 Warsaw](https://42warsaw.pl) - Warsaw, Poland (2024)
+
 
 ### America
 
