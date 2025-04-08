@@ -73,7 +73,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Cheatsheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive collection of programming tips and tricks aimed at 42 students.
 - [harm-smits/42docs](https://harm-smits.github.io/42docs) - Documentation for MiniLibX and introduction to some projects.
 	- [source code](https://github.com/harm-smits/42docs)
-- [42sommecaise/42Docs](https://github.com/42sommecaise/42Docs)
 - [Peer Class](https://github.com/apt-42/peer_class)
 - [Resources for 42 students](https://github.com/apt-42/resources) - A selection of resources about Information security.
 
@@ -94,7 +93,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [StackOverflow](https://stackoverflow.com/c/42network) - The new forum.
 - [GitHub Student Pack Portal](https://github-portal.42.fr) - Portal to activate the GitHub Student Pack.
 - [Alumni](https://alumni.42.fr)
-- [Admission Test Practice](http://ftzzle.42.us.org/index.html)
 
 ### Social presence
 
@@ -109,58 +107,75 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Associations
 
-- [42l](https://42l.fr) - Open Source and Libre culture at 42.
-- [Association Sans Nom](https://sansnom.org) - Libre and security at 42.
-	- [GitHub](https://github.com/asn42)
-- [42AI](https://www.42ai.fr) - Artificial Intelligence at 42.
-	- [GitHub](https://github.com/42-AI)
+- [La coutre voie](https://lacontrevoie.fr/) - Open Source and Libre culture at 42.
 - [42Entrepreneurs](https://42entrepreneurs.com)
-- [BDE](https://pingwin-bde.fr)
+- [BDE](https://discord.com/invite/9dNeUQD2vd)
 
 ## Campuses
 
 ### Europe
 
+
 - [42 Paris](https://42.fr) - Paris, France (2013)
 - [42 Lyon](https://www.42lyon.fr) - Formerly *101*. Lyon, France (2017)
-- [Codam](https://www.codam.nl) - Amsterdam, The Netherlands (2018)
-- [19](https://www.s19.be) - Brussels, Belgium (2018)
-- [21](https://21-school.ru) - Moscow, Russia (2018)
-- [21](https://21-school.ru) - Kazan, Russia (2019)
-- [Hive](https://www.hive.fi) - Helsinki, Finland (2019)
-- [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
-- [42 Lausanne](https://42lausanne.ch) - Lausanne, Switzerland (2019)
-- [42 Roma](https://42roma.it) - Rome, Italy (2020)
-- [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
-- [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
-- [42 Wolfsburg](https://42wolfsburg.de) - Wolfsburg, Germany (2020)
-- [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
-- [42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
+- [Codam](https://www.codam.nl) - Amsterdam, Pays-Bas (2018)
+- [19](https://www.campus19.be) - Bruxelles/Antwerp, Belgique (2018)
+- [Hive Helsinki](https://www.hive.fi) - Helsinki, Finlande (2019)
+- [42 Madrid](https://www.42madrid.com) - Madrid, Espagne (2019)
+- [42 Nice](https://www.42nice.fr) - Nice, France (2020)
+- [42 Mulhouse](https://www.42mulhouse.fr) - Mulhouse, France (2020)
+- [42 Lisboa](https://www.42lisboa.com) - Lisbonne, Portugal (2020)
+- [42 Luxembourg](https://42luxembourg.lu) - Esch-sur-Alzette, Luxembourg (2020)
+- [42 Lausanne](https://www.42lausanne.ch) - Lausanne, Suisse (2021)
+- [42 Wolfsburg](https://www.42wolfsburg.de) - Wolfsburg, Allemagne (2021)
+- [42 Istanbul](https://www.42istanbul.com.tr) - Istanbul, Turquie (2021)
+- [42 Barcelona](https://www.42barcelona.com) - Barcelone, Espagne (2021)
+- [42 Málaga](https://www.42malaga.com) - Málaga, Espagne (2021)
+- [42 Urduliz](https://www.42urduliz.com) - Urduliz, Espagne (2021)
+- [42 Firenze](https://www.42firenze.it) - Florence, Italie (2021)
+- [42 Roma](https://www.42roma.it) - Rome, Italie (2021)
+- [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Allemagne (2021)
 - [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
-- [42 Warsaw](https://42warsaw.pl) - Warsaw, Poland (2024)
+- [42 Berlin](https://www.42berlin.de) - Berlin, Allemagne (2022)
+- [42 Vienna](https://www.42vienna.com) - Vienne, Autriche (2022)
+- [42 Prague](https://www.42prague.com) - Prague, République tchèque (2022)
+- [42 Milano](https://www.42milano.it) - Milan, Italie (2022)
+- [42 Perpignan](https://www.42perpignan.fr) - Perpignan, France (2022)
+- [42 London](https://www.42london.com) - Londres, Royaume-Uni (2023)
+- [42 Warsaw](https://www.42warsaw.pl) - Varsovie, Pologne (2023)
+- [42 Tirana](https://www.42tirana.al) - Tirana, Albanie (2025)
 
 ### America
 
-- [42 Silicon Valley](https://www.42.us.org) - Fremont, California, USA (2016)
 - [42 São Paulo](https://www.42sp.org.br) - São Paulo, Brazil (2019)
 - [42 Rio](https://42.rio) - Rio de Janeiro, Brazil (2019)
 - [42 Québec](https://www.42quebec.com) - Québec, Canada (2021)
 
 ### Asia
 
-- [42 Seoul](https://42seoul.kr) - Seoul, South Korea (2019)
-- [42 Tokyo](https://42tokyo.jp) - Tokyo, Japan (2020)
-- [42 Yerevan](https://42yerevan.am) - Yerevan, Armenia (2020)
-- [42 Bangkok](https://www.42bangkok.com) - Bangkok, Thailand (2021)
-- [42 Kuala Lumpur](https://42kl.edu.my) - Kuala Lumpur, Malaysia (2021)
+- [42 Tokyo](https://42tokyo.jp) - Tokyo, Japon (2020)
+- [42 Abu Dhabi](https://42abudhabi.ae/) - Abu Dhabi, Émirats arabes unis (2020)
+- [42 Bangkok](https://42bangkok.com) - Bangkok, Thaïlande (2021)
+- [42 Kuala Lumpur](https://42kl.edu.my) - Kuala Lumpur, Malaisie (2021)
+- [42 Iskandar Puteri](https://42iskandarputeri.edu.my) - Iskandar Puteri, Malaisie (2021)
+- [42 Penang](https://42penang.edu.my) - Penang, Malaisie (2021)
+- [42 Seoul](https://42seoul.kr) - Séoul, Corée du Sud (2021)
+- [42 Kocaeli](https://42kocaeli.com.tr) - Kocaeli, Turquie (2021)
+- [42 Amman](https://42amman.com) - Amman, Jordanie (2022)
+- [42 Irbid](https://42amman.com) - Irbid, Jordanie (2022)
+- [42 Singapore](https://42singapore.sg) - Singapour (2023)
+- [42 Antananarivo](https://42antananarivo.mg) - Antananarivo, Madagascar (2023)
+- [42 Gyeongsan](https://42gyeongsan.kr) - Gyeongsan, Corée du Sud (2023)
+- [42 Beirut](https://42beirut.com) - Beyrouth, Liban (2024)
 
 ### Africa
 
-- [1337](https://1337.ma) - Khouribga, Morocco (2018)
-- [1337](https://1337.ma) - Ben Guerir, Morocco (2019)
-- [1337](https://1337.ma) - Tetouan, Morocco (2022)
+- [1337 Khouribga](https://1337.ma) - Khouribga, Maroc (2018)
+- [1337 Ben Guérir](https://1337.ma) - Ben Guérir, Maroc (2019)
+- [1337 Med](https://1337.ma) - Tétouan, Maroc (2022)
+- [42 Antananarivo](https://42antananarivo.mg) - Antananarivo, Madagascar (2023)
 - [42 Luanda](https://42luanda.com) - Luanda, Angola (2023)
-- [1337](https://1337.ma) - Rabat, Morocco (2024)
+- [1337 Rabat](https://1337.ma) - Rabat, Maroc (2023)
 
 ### Oceania
 
@@ -208,13 +223,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## Student projects
 
-- [42 Evaluators](https://www.42evaluators.com)
-	- [Python script](https://github.com/rfautier/find_correction)
 - [Find Peers](https://find-peers.codam.nl/) - A list of students working on each project per campus.
 	- [source code](https://github.com/codam-coding-college/find-peers)
-- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (out of date).
-	- [source code](https://github.com/Kwevan/42-ranking)
-- [XP Calculator](https://42.tbailleu.dev)
 
 ### Awesome lists
 
@@ -233,8 +243,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 ### Readme Badges
 
 - [Badge 42](https://github.com/JaeSeoKim/badge42)
-- [1337 Readme](https://1337-readme.vercel.app)
-	- [source code](https://github.com/mohouyizme/1337-readme)
 
 ### Campus specific
 
@@ -242,13 +250,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [Stud42](https://stud42.fr) - Cluster map.
 	- [42-beta.vmontagn.fr](https://42-beta.vmontagn.fr) - Piscine.
 	- [42.vmontagn.fr](https://42.vmontagn.fr) - Piscine.
-	- [42.asandolo.fr](https://42.asandolo.fr) - Piscine.
-- [42 Seoul](#asia)
-	- [Seoul42](https://seoul42.com/)
-		- [source code](https://github.com/progresshans/seoul42)
-- [Codam](#europe)
-	- [codamhero.dev](https://codamhero.dev) - Cluster map and other tools.
-		- [source code](https://github.com/OscarMulder/codam-clustermap)
 
 ## Tools
 
@@ -274,7 +275,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [norminette-docker](https://github.com/alexandregv/norminette-docker) - Docker image for norminette.
 - [norminette-go](https://github.com/alexandregv/norminette-client-golang)
 - [norminette.cr](https://github.com/aabajyan/norminette.cr) - Crystal implementation.
-- [Norminette v3 macOS Installation Guide](https://github.com/ftputGuigz/Norminette_v3_MacOS_installation_guide)
 
 ### MiniLibX
 
@@ -291,7 +291,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42 Tools](https://github.com/Korkrane/42TOOLS)
 - [k8s-42-session-setup](https://github.com/f0rkr/k8s-42-session-setup)
 - [scripts_42](https://github.com/lpieri/scripts_42) - Set of functions to change your preferences on macOS.
-- [FU CNIL 42](https://github.com/jgengo/fu_cnil_42)
 - [keep_extensions](https://github.com/FreekBes/keep_extensions) - A script to forcefully install and keep your Chrome extensions on 42 iMacs.
 
 #### Homebrew
