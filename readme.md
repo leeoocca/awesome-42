@@ -215,6 +215,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (out of date).
 	- [source code](https://github.com/Kwevan/42-ranking)
 - [XP Calculator](https://42.tbailleu.dev)
+- [42 PeerFinder](https://42peerfinder.com/) - A website for finding online students at your campus and to view cluster maps.
 
 ### Awesome lists
 
