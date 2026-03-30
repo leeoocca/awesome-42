@@ -116,6 +116,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [GitHub](https://github.com/42-AI)
 - [42Entrepreneurs](https://42entrepreneurs.com)
 - [BDE](https://pingwin-bde.fr)
+- [42Blockchain](https://42blockchain.com/) - Blockchain at 42.
 
 ## Campuses
 
