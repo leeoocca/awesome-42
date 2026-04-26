@@ -310,6 +310,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [norminette-vim](https://github.com/alexandregv/norminette-vim) - Displays norm errors directly inside Vim.
 - [c_formatter_42.vim](https://github.com/cacharle/c_formatter_42.vim) - Vim plugin for the [c_formatter_42](#tools) formatter.
 
+#### Neovim
+
+- [42-nvim](https://github.com/fclivaz42/42-nvim) - A Neovim configuration, supercharged for 42 Students.
+- [42-C-Formatter.nvim](https://github.com/Diogo-ss/42-C-Formatter.nvim) - Neovim plugin for the [c_formatter_42](#tools) formatter.
+- [42-header.nvim](https://github.com/Diogo-ss/42-header.nvim) - 42 header Neovim plugin with `commentstring` and git support.
+- [42norm.nvim](https://github.com/MoulatiMehdi/42norm.nvim) - 42 header, [c_formatter_42](#tools) and Norminette linter in a single plugin.
+- [ft_nvim](https://github.com/vinicius507/ft_nvim) - 42 header plugin with Norminette linter.
+
 #### Visual Studio Code
 
 - [42 Canonical Class CPP](https://marketplace.visualstudio.com/items?itemName=frfreyCanonicalClassCPP.canonicalclasscpp)
