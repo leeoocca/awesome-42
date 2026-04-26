@@ -120,52 +120,115 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## Campuses
 
-### Europe
+### Africa
 
-- [42 Paris](https://42.fr) - Paris, France (2013)
-- [42 Lyon](https://www.42lyon.fr) - Formerly *101*. Lyon, France (2017)
-- [Codam](https://www.codam.nl) - Amsterdam, The Netherlands (2018)
-- [19](https://www.s19.be) - Brussels, Belgium (2018)
-- [21](https://21-school.ru) - Moscow, Russia (2018)
-- [21](https://21-school.ru) - Kazan, Russia (2019)
-- [Hive](https://www.hive.fi) - Helsinki, Finland (2019)
-- [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
-- [42 Lausanne](https://42lausanne.ch) - Lausanne, Switzerland (2019)
-- [42 Roma](https://42roma.it) - Rome, Italy (2020)
-- [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
-- [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
-- [42 Wolfsburg](https://42wolfsburg.de) - Wolfsburg, Germany (2020)
-- [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
-- [42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
-- [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
-- [42 Warsaw](https://42warsaw.pl) - Warsaw, Poland (2024)
-
-### America
-
-- [42 Silicon Valley](https://www.42.us.org) - Fremont, California, USA (2016)
-- [42 São Paulo](https://www.42sp.org.br) - São Paulo, Brazil (2019)
-- [42 Rio](https://42.rio) - Rio de Janeiro, Brazil (2019)
-- [42 Québec](https://www.42quebec.com) - Québec, Canada (2021)
+- Angola
+	- [42 Luanda](https://42luanda.com) - (2023)
+- Madagascar
+	- [42 Antananarivo](https://42antananarivo.mg) - (20XX)
+- Morocco
+	- [1337](https://1337.ma) - Khouribga (2018)
+	- [1337](https://1337.ma) - Ben Guerir (2019)
+	- [1337 Med](https://1337.ma) - Tetouan (2022)
+	- [1337](https://1337.ma) - Rabat (2024)
 
 ### Asia
 
-- [42 Seoul](https://42seoul.kr) - Seoul, South Korea (2019)
-- [42 Tokyo](https://42tokyo.jp) - Tokyo, Japan (2020)
-- [42 Yerevan](https://42yerevan.am) - Yerevan, Armenia (2020)
-- [42 Bangkok](https://www.42bangkok.com) - Bangkok, Thailand (2021)
-- [42 Kuala Lumpur](https://42kl.edu.my) - Kuala Lumpur, Malaysia (2021)
+- Armenia
+	- [42 Yerevan](https://42yerevan.am) - (2020)
+- Japan
+	- [42 Tokyo](https://42tokyo.jp) - (2020)
+- Jordan
+	- [42 Amman](https://42amman.com) - (20XX)
+	- [42 Irbid](https://42irbid.com) - (20XX)
+- Lebanon
+	- [42 Beirut](https://www.42beirut.com) - (20XX)
+- Malaysia
+	- [42 Kuala Lumpur](https://42kl.edu.my) - (2021)
+	- [42 Iskandar Puteri](https://42iskandarputeri.edu.my) - (20XX)
+	- [42 Penang](https://42penang.edu.my) - (20XX)
+- Palestine
+	- [42 Nablus](https://www.42network.org/campus/42-nablus/) - Planned
+- Singapore
+	- [42 Singapore](https://www.42singapore.sg) - (20XX)
+- South Korea
+	- ~~[42 Seoul](https://42seoul.kr)~~ - (2019)
+	- [42 Gyeongsan](https://42gyeongsan.kr) - (20XX)
+- Thailand
+	- [42 Bangkok](https://www.42bangkok.com) - (2021)
+- United Arab Emirates
+	- [42 Abu Dhabi](https://42abudhabi.ae) - (20XX)
 
-### Africa
+### America
 
-- [1337](https://1337.ma) - Khouribga, Morocco (2018)
-- [1337](https://1337.ma) - Ben Guerir, Morocco (2019)
-- [1337](https://1337.ma) - Tetouan, Morocco (2022)
-- [42 Luanda](https://42luanda.com) - Luanda, Angola (2023)
-- [1337](https://1337.ma) - Rabat, Morocco (2024)
+- Brazil
+	- [42 São Paulo](https://www.42sp.org.br) - (2019)
+	- [42 Rio](https://42.rio) - (2019)
+	- [42 Belo Horizonte](https://www.42bh.org.br) - (20XX)
+- Canada
+	- ~~[42 Québec](https://www.42quebec.com)~~ - (2021)
+- United States of America
+	- ~~[42 Silicon Valley](https://www.42.us.org)~~ - Fremont, California (2016)
+
+### Europe
+
+- Albania
+	- [42 Tirana](https://42tirana.al) - (2025)
+- [Austria](https://42austria.org)
+	- [42 Vienna](https://42vienna.com) - (2022)
+	- [42 Wels](https://42wels.at) - Planned (2026)
+- Belgium
+	- [42 Belgium](https://42belgium.be) - Formerly *19*. Brussels (2018) and Antwerp (2022)
+- Czech Republic
+	- [42 Prague](https://42prague.com) - (2022)
+- Finland
+	- ~~[Hive](https://www.hive.fi)~~ - Helsinki, spun off in 2025 (2019)
+- [France](https://42france.fr)
+	- [42 Paris](https://42.fr) - (2013)
+	- [42 Lyon](https://www.42lyon.fr) - Formerly *101* (2017)
+	- [42 Nice](https://42nice.fr) - (2020)
+	- [42 Angoulême](https://42angouleme.fr) - (20XX)
+	- [42 Le Havre](https://42lehavre.fr) - (20XX)
+	- [42 Mulhouse](https://42mulhouse.fr) - (20XX)
+	- [42 Perpignan Occitanie](https://42perpignan.fr) - (20XX)
+	- [42 Marseille](https://42marseille.fr) - (20XX)
+- [Germany](https://42germany.de)
+	- [42 Heilbronn](https://www.42heilbronn.de) - (2020)
+	- [42 Wolfsburg](https://42wolfsburg.de) - (2020)
+	- [42 Berlin](https://42berlin.de) - (2022)
+- Italy
+	- [42 Roma](https://42roma.it) - (2020)
+	- [42 Firenze](https://42firenze.it) - (20XX)
+	- [42 Milano](https://42milano.it) - Planned
+- Luxembourg
+	- [42 Luxembourg](https://42luxembourg.lu) - (2022)
+- The Netherlands
+	- [Codam](https://www.codam.nl) - Amsterdam (2018)
+- Poland
+	- [42 Warsaw](https://42warsaw.pl) - (2024)
+- Portugal
+	- [42 Lisboa](https://www.42lisboa.com) - (2020)
+	- [42 Porto](https://www.42porto.com) - (2022)
+- Russia
+	- ~~[21](https://21-school.ru)~~ - Moscow (2018)
+	- ~~[21](https://21-school.ru)~~ - Kazan (2019)
+	- ~~[21](https://21-school.ru)~~ - Novosibirsk (2021)
+	- ~~[21](https://21-school.ru)~~ - Surgut (2023)
+- [Spain](https://42spain.es)
+	- [42 Madrid](https://www.42madrid.com) - (2019)
+	- [42 Urdliz](https://www.42urduliz.com) - (2021)
+	- [42 Málaga](https://www.42malaga.com) - (20XX)
+	- [42 Barcelona](https://www.42barcelona.com) - (20XX)
+- Switzerland
+	- [42 Lausanne](https://42lausanne.ch) - (2019)
+	- [42 Zurich](https://42zurich.ch) - Planned
+- United Kingdom
+	- [42 London](https://42london.com) - (20XX)
 
 ### Oceania
 
-- [42 Adelaide](https://www.42adel.org.au) - Adelaide, Australia (2021)
+- Australia
+	- ~~[42 Adelaide](https://www.42adel.org.au)~~ - (2021)
 
 ## 42 API
 
