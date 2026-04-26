@@ -156,6 +156,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [42 Gyeongsan](https://42gyeongsan.kr) - (20XX)
 - Thailand
 	- [42 Bangkok](https://www.42bangkok.com) - (2021)
+- [Turkey](https://42turkiye.com.tr)
+	- [42 Istanbul](https://42istanbul.com.tr) - (20XX)
+	- [42 Kocaeli](https://42kocaeli.com.tr) - (20XX)
 - United Arab Emirates
 	- [42 Abu Dhabi](https://42abudhabi.ae) - (20XX)
 
