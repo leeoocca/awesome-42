@@ -170,7 +170,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [42 Rio](https://42.rio) - (2019)
 	- [42 Belo Horizonte](https://www.42bh.org.br) - (20XX)
 - Canada
-	- ~~[42 Québec](https://www.42quebec.com)~~ - (2021)
+	- ~~[42 Québec](https://www.42quebec.com)~~ - Shut down in January 2025 (2021 - 2025)
 - United States of America
 	- ~~[42 Silicon Valley](https://www.42.us.org)~~ - Fremont, California (2016)
 
