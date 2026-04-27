@@ -434,10 +434,11 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ### Browser Extensions
 
+- [Improved Intra 42](https://github.com/FreekBes/improved_intra) - Adds many improvements to 42's Intranet, such as dark mode and customizable profiles.
+	- [Chrome Webstore](https://chrome.google.com/webstore/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo)
+
 #### Google Chrome
 
-- [Improved Intra 42](https://chrome.google.com/webstore/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo) - Adds many improvements to 42's Intranet, such as dark mode and customizable profiles.
-	- [source code](https://github.com/FreekBes/improved_intra)
 - [Better Black Hole](https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf) - Hide the demotivating countdown and sad emote, replacing it by a date and a motivating message.
 - [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep) - A simple extension that calculates a user's log time and shows it on their profile.
 	- [source code](https://github.com/mohamedhaddi/ft_logtime)
