@@ -6,6 +6,7 @@
 <summary>Table of Contents</summary>
 
 - [About 42](#about-42)
+	- [Timeline](#timeline)
 - [Cursus](#cursus)
 	- [Resources](#resources)
 	- [Testers](#testers)
@@ -66,6 +67,18 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 > The school is a non-profit organization and is entirely free, being funded by billionaire Xavier Niel with hundreds of millions of dollars. All the intellectual property belongs to the students.
 
 > 42's name is a reference to the science fiction book The Hitchhiker's Guide to the Galaxy written by British author Douglas Adams: in the book 42 is the Answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Timeline
+
+- Nicolas Sadirac
+	- [Epitech](https://epitech.eu) - 20 campuses (1999 - 2013?)
+	- [Web@cademie](https://www.webacademie.org) - 7 campuses (2010 - 201?)
+	- [42](https://42.fr) - 57 campuses (2013 - 2018)
+	- [01 Edu System](https://01edu.ai) - 14 campuses (2019 - present)
+- Kwame Yamgnane
+	- [Qwasar](https://www.qwasar.io) - [Founded](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane) after the closing of 42 Silicon Valley (2020)
+- Florian Bucher
+	- [Holberton](https://hbtn.dev) - 37 campuses. Bucher is CEO [since 2022](https://blog.holbertonschool.com/the-holberton-school-network-has-a-new-ceo/), school was started  by in 2015 by Julien Barbier.
 
 ## Cursus
 
