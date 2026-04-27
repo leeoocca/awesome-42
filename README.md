@@ -183,7 +183,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - Canada
 	- ~~[42 Québec](https://www.42quebec.com)~~ - Shut down in January 2025 (2021 - 2025)
 - United States of America
-	- ~~[42 Silicon Valley](https://www.42.us.org)~~ - Fremont, California (2016)
+	- ~~[42 Silicon Valley](https://www.42.us.org)~~ - Fremont, California (2016 - 2020)
 
 ### Europe
 
