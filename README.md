@@ -196,6 +196,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 	- [42 Mulhouse](https://42mulhouse.fr) - (20XX)
 	- [42 Perpignan Occitanie](https://42perpignan.fr) - (20XX)
 	- [42 Marseille](https://42marseille.fr) - (20XX)
+	- [FortyTwo](https://forty2.fr) - Additional location of 42 Paris, open to students of the Network during the summer (20XX)
 - [Germany](https://42germany.de)
 	- [42 Heilbronn](https://www.42heilbronn.de) - (2020)
 	- [42 Wolfsburg](https://42wolfsburg.de) - (2020)
