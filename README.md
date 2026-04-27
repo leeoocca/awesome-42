@@ -62,9 +62,7 @@
 
 From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
-> 42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel (founder of the telecommunication company Iliad) with several partners [...] The school was first opened in Paris in 2013.
-
-> The school is a non-profit organization and is entirely free, being funded by billionaire Xavier Niel with hundreds of millions of dollars. All the intellectual property belongs to the students.
+> 42 is a private institution of education in computer science founded by French billionaire Xavier Niel (founder of the telecommunication company Iliad), Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24/7. Students are trained through peer-to-peer pedagogy, and project-based learning.
 
 > 42's name is a reference to the science fiction book The Hitchhiker's Guide to the Galaxy written by British author Douglas Adams: in the book 42 is the Answer to the Ultimate Question of Life, the Universe, and Everything.
 
