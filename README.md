@@ -101,11 +101,13 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## 42 Network
 
+- [Website](https://42network.org)
 - [Intranet](https://intra.42.fr)
 - [Slack](https://42born2code.slack.com)
 - [StackOverflow](https://stackoverflow.com/c/42network) - The new forum.
 - [GitHub Student Pack Portal](https://github-portal.42.fr) - Portal to activate the GitHub Student Pack.
 - [Alumni](https://alumni.42.fr)
+- [Job board](https://ft42.notion.site/42-International-JobBoard-6ccd9d830b8b4528b65ab4c55b085266)
 - [Admission Test Practice](http://ftzzle.42.us.org/index.html)
 
 ### Social presence
