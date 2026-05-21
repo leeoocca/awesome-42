@@ -134,6 +134,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 ## Campuses
 
+The [official list](https://www.42network.org/42-schools/) for active or upcoming 42 campuses is on the 42 Network website. Below you can find a list that also includes an historical record of campuses that have been closed or are no longer active.
+
 ### Africa
 
 - Angola
