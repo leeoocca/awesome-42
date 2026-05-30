@@ -195,7 +195,7 @@ The [official list](https://www.42network.org/42-schools/) for active or upcomin
 	- [42 Tirana](https://42tirana.al) - (2025)
 - [Austria](https://42austria.org)
 	- [42 Vienna](https://42vienna.com) - (2022)
-	- [42 Wels](https://42wels.at) - Planned (2026)
+	- [42 Wels](https://42wels.at) - (2026)
 - Belgium
 	- [42 Belgium](https://42belgium.be) - Formerly *19*. Brussels (2018) and Antwerp (2022)
 - Czech Republic
