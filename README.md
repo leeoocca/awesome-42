@@ -236,6 +236,7 @@ The [official list](https://www.42network.org/42-schools/) for active or upcomin
 	- ~~[21](https://21-school.ru)~~ - Surgut (2023)
 - [Spain](https://42spain.es)
 	- [42 Madrid](https://www.42madrid.com) - (2019)
+	- ~~42 Alicante~~ - [Announced](https://www.telefonica.com/es/wp-content/uploads/sites/4/2021/02/ndp-arranque-escuela42-alicante.pdf) in 2020, never opened
 	- [42 Urdliz](https://www.42urduliz.com) - (2021)
 	- [42 Málaga](https://www.42malaga.com) - (20XX)
 	- [42 Barcelona](https://www.42barcelona.com) - (20XX)
